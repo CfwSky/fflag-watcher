@@ -150,6 +150,7 @@
     "FFlagAnimatorRetargetSkipLowerBodyIK": true,
     "FFlagEnableRigRetargeterCaching": true,
     "FFlagUserFixOrbitalCam": true,
+    "FFlagEnableAnimatorAnalyticsForRetargeting": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "DFIntCrashUploadToBacktracePercentage": 10,
@@ -166,8 +167,8 @@
     "DeprecatedOSXMajorVersion": 10,
     "FFlagEnableDeepLinkUseExistingClient": true,
     "FFlagEnableSingleInstanceRobloxClient": true,
-    "FStringFlagRepoGitHashFastString": "a337f995ec4fd578dc93a44d8237c09f878f1ce3",
-    "DFStringFlagRepoGitHashDynamicString": "a337f995ec4fd578dc93a44d8237c09f878f1ce3",
-    "FStringFlipTimeStampFastString": "2024-10-24T18:31:19.002Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-24T18:31:19.002Z"
+    "FStringFlagRepoGitHashFastString": "b3579fcaa2dd60231389d4b3caf9adefa37cfa92",
+    "DFStringFlagRepoGitHashDynamicString": "b3579fcaa2dd60231389d4b3caf9adefa37cfa92",
+    "FStringFlipTimeStampFastString": "2024-10-25T17:31:30.751Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-25T17:31:30.751Z"
 }
