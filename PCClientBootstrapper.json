@@ -165,8 +165,9 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "b3579fcaa2dd60231389d4b3caf9adefa37cfa92",
-    "DFStringFlagRepoGitHashDynamicString": "b3579fcaa2dd60231389d4b3caf9adefa37cfa92",
-    "FStringFlipTimeStampFastString": "2024-10-25T17:31:30.751Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-25T17:31:30.751Z"
+    "FFlagEnableAnimatorAnalyticsForRetargeting_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-28T16:28:29",
+    "FStringFlagRepoGitHashFastString": "d6553bf9277ed7395761f5b42ef1afbae6019d11",
+    "DFStringFlagRepoGitHashDynamicString": "d6553bf9277ed7395761f5b42ef1afbae6019d11",
+    "FStringFlipTimeStampFastString": "2024-10-28T17:18:23.017Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-28T17:18:23.017Z"
 }
