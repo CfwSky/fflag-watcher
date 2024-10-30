@@ -8830,9 +8830,9 @@
     "FFlagAXFixLookComposerExitPrompt": true,
     "FFlagAXLookComposerStepsRefactor": true,
     "FFlagSendWebViewUserAgentEnabled": true,
-    "FFlagVoiceChatIXPToolDisableCullingIXPFetch_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T18:46:27",
-    "FStringFlagRepoGitHashFastString": "4822787ea9d296287a47923344df1dde7f047fc2",
-    "DFStringFlagRepoGitHashDynamicString": "4822787ea9d296287a47923344df1dde7f047fc2",
-    "FStringFlipTimeStampFastString": "2024-10-30T19:47:48.018Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T19:47:48.018Z"
+    "FFlagVoiceChatIXPToolDisableCullingIXPFetch": true,
+    "FStringFlagRepoGitHashFastString": "602383a87142e991d0f77f7b2a0806d4789fecbb",
+    "DFStringFlagRepoGitHashDynamicString": "602383a87142e991d0f77f7b2a0806d4789fecbb",
+    "FStringFlipTimeStampFastString": "2024-10-30T19:52:43.438Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T19:52:43.438Z"
 }
