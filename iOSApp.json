@@ -8231,7 +8231,6 @@
     "FFlagEnableServerGetUserPosts_PlaceFilter": "true;82695214392018;92359758414863",
     "FFlagStudioActionsManagedUtil": true,
     "FFlagMakeEntrypointButtonDraggable_v10": true,
-    "FFlagColorPickerVRFix2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T18:39:57",
     "FFlagTerrainVoxelReplaceWaterSubvoxel": true,
     "FFlagDevFrameworkFormSpacingSize": true,
     "DFIntWindowsMinimumClientVersion2": 644,
@@ -8240,6 +8239,8 @@
     "FFlagClusterCacheWorkspaceProperty2": true,
     "FFlagPerformanceControlCLI105137DenoteNoRolloutGroup_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T19:12:00",
     "FFlagFixEventTileDescription": true,
+    "FFlagColorPickerVRFix2": true,
+    "FFlagFCFixSmoothSkinning_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T19:45:10",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -8830,8 +8831,8 @@
     "FFlagAXLookComposerStepsRefactor": true,
     "FFlagSendWebViewUserAgentEnabled": true,
     "FFlagVoiceChatIXPToolDisableCullingIXPFetch_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T18:46:27",
-    "FStringFlagRepoGitHashFastString": "47b692effe4348a125db3c1a0fafb52e10e27563",
-    "DFStringFlagRepoGitHashDynamicString": "47b692effe4348a125db3c1a0fafb52e10e27563",
-    "FStringFlipTimeStampFastString": "2024-10-30T19:33:04.645Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T19:33:04.645Z"
+    "FStringFlagRepoGitHashFastString": "14c83f665365cac85e48d4eb51f7463e1b6ecac4",
+    "DFStringFlagRepoGitHashDynamicString": "14c83f665365cac85e48d4eb51f7463e1b6ecac4",
+    "FStringFlipTimeStampFastString": "2024-10-30T19:46:02.522Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T19:46:02.522Z"
 }
