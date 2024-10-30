@@ -8270,6 +8270,7 @@
     "DFStringCommerceUniverseAllowList_Rollout": "6656347044,6704585586,6710437199,1601065334;60;2024-10-30T23:01:20",
     "FFlagAXCheckAccessoryDescriptionNotNil_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:01:22",
     "FFlagRefactorTileTextHeights": true,
+    "FFlagClientSideMigrationMetrics_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:09:25",
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
@@ -9367,8 +9368,8 @@
     "FFlagSimpleTimerUseRuntimeSyncPrims": true,
     "FFlagEnableVisBugChecks27": true,
     "DFFlagUseVisBugChecks_PlaceFilter": "true;7208091524;7902470429;10489114145;9872472334;8481844229;299659045",
-    "FStringFlagRepoGitHashFastString": "80e6740b025ac5d587929fcd4794d7c91b32186a",
-    "DFStringFlagRepoGitHashDynamicString": "80e6740b025ac5d587929fcd4794d7c91b32186a",
-    "FStringFlipTimeStampFastString": "2024-10-30T23:08:08.103Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:08:08.103Z"
+    "FStringFlagRepoGitHashFastString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
+    "DFStringFlagRepoGitHashDynamicString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
+    "FStringFlipTimeStampFastString": "2024-10-30T23:11:30.289Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:11:30.289Z"
 }

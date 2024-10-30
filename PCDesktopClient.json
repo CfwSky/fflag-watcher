@@ -8270,6 +8270,7 @@
     "DFStringCommerceUniverseAllowList_Rollout": "6656347044,6704585586,6710437199,1601065334;60;2024-10-30T23:01:20",
     "FFlagAXCheckAccessoryDescriptionNotNil_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:01:22",
     "FFlagRefactorTileTextHeights": true,
+    "FFlagClientSideMigrationMetrics_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:09:25",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -8458,7 +8459,7 @@
     "FFlagWinSkipLuaUpdateForBackgroundDownload": true,
     "FFlagSetContextInfoAttributesOnClient": true,
     "FStringDefaultModeratedAvatarBodyImageAssetId": 89053445842149,
-    "FStringDefaultModeratedAvatarHeadImageAssetId": "\"140234539950892\"",
+    "FStringDefaultModeratedAvatarHeadImageAssetId": 140234539950892,
     "FStringWindowsBackgroundDownloadExperimentBucketSettings2": "1-10",
     "DFFlagFixTriangleSupportDir": true,
     "FFlagUseNewImageOnModeratedThumbnails_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:05:45",
@@ -8813,8 +8814,8 @@
     "FFlagWinBackgroundDownloadUpdates2": true,
     "FFlagVoiceChatIXPToolDisableCullingIXPFetch": true,
     "FFlagEnableRobloxStarterModuleFactory_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:16:12",
-    "FStringFlagRepoGitHashFastString": "48b863eef3472259e6292fbd281b4318fef3ee84",
-    "DFStringFlagRepoGitHashDynamicString": "48b863eef3472259e6292fbd281b4318fef3ee84",
-    "FStringFlipTimeStampFastString": "2024-10-30T23:04:00.135Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:04:00.135Z"
+    "FStringFlagRepoGitHashFastString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
+    "DFStringFlagRepoGitHashDynamicString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
+    "FStringFlipTimeStampFastString": "2024-10-30T23:11:30.289Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:11:30.289Z"
 }
