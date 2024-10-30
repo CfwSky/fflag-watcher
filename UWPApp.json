@@ -8239,7 +8239,6 @@
     "FFlagFixEventTileDescription": true,
     "FFlagColorPickerVRFix2": true,
     "DFFlagInferredCrashOverwriteUserId2": true,
-    "FFlagFCFixSmoothSkinning": true,
     "FFlagFixProximityPromptOffsetPop": true,
     "FFlagTerrainEditorRelativeShortcuts": true,
     "FFlagUpdateToastTimerCalculation": true,
@@ -8251,7 +8250,6 @@
     "FFlagTerrainEditorFlattenAutoFix": true,
     "DFStringMemoryBufferForHarmonyData": "{}",
     "FFlagStudioActionContextIntegration": true,
-    "FFlagStudioBackgroundLogCulling_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:06:50",
     "FFlagStudioFixQtitanRibbonCornerWidget_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:13:50",
     "FFlagLuaAppFixFollowButtonDeeplink_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:14:02",
     "FFlagDisableRibbonUpdatesDuringPlaceOpen_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:14:30",
@@ -8271,6 +8269,7 @@
     "FFlagAXCheckAccessoryDescriptionNotNil_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:01:22",
     "FFlagRefactorTileTextHeights": true,
     "FFlagClientSideMigrationMetrics_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:09:25",
+    "FFlagStudioBackgroundLogCulling": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -8478,9 +8477,9 @@
     "FStringDefaultModeratedAvatarBodyImageAssetId": 89053445842149,
     "FStringDefaultModeratedAvatarHeadImageAssetId": 140234539950892,
     "FFlagRefactorTeleportServiceGlobalFields4": true,
-    "FFlagUseNewImageOnModeratedThumbnails_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:05:45",
-    "FStringFlagRepoGitHashFastString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
-    "DFStringFlagRepoGitHashDynamicString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
-    "FStringFlipTimeStampFastString": "2024-10-30T23:11:30.289Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:11:30.289Z"
+    "FFlagUseNewImageOnModeratedThumbnails": true,
+    "FStringFlagRepoGitHashFastString": "7dcd239471422295d4f8ba63f675eabcbda83d3c",
+    "DFStringFlagRepoGitHashDynamicString": "7dcd239471422295d4f8ba63f675eabcbda83d3c",
+    "FStringFlipTimeStampFastString": "2024-10-30T23:16:23.717Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:16:23.717Z"
 }

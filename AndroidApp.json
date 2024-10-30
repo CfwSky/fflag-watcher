@@ -8251,7 +8251,6 @@
     "FFlagTerrainEditorFlattenAutoFix": true,
     "DFStringMemoryBufferForHarmonyData": "{}",
     "FFlagStudioActionContextIntegration": true,
-    "FFlagStudioBackgroundLogCulling_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:06:50",
     "FFlagStudioFixQtitanRibbonCornerWidget_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:13:50",
     "FFlagLuaAppFixFollowButtonDeeplink_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:14:02",
     "FFlagDisableRibbonUpdatesDuringPlaceOpen_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:14:30",
@@ -8271,6 +8270,7 @@
     "FFlagAXCheckAccessoryDescriptionNotNil_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:01:22",
     "FFlagRefactorTileTextHeights": true,
     "FFlagClientSideMigrationMetrics_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T23:09:25",
+    "FFlagStudioBackgroundLogCulling": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -8846,9 +8846,9 @@
     "FFlagVoiceChatIXPToolDisableCullingIXPFetch": true,
     "DFFlagIsFriendsWithUsesAreFriendsEndpointV2": true,
     "DFFlagFixTriangleSupportDir": true,
-    "FFlagUseNewImageOnModeratedThumbnails_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:05:45",
-    "FStringFlagRepoGitHashFastString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
-    "DFStringFlagRepoGitHashDynamicString": "ae9e983ac911e45aec5304af3cee5e5052989c4f",
-    "FStringFlipTimeStampFastString": "2024-10-30T23:11:30.289Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:11:30.289Z"
+    "FFlagUseNewImageOnModeratedThumbnails": true,
+    "FStringFlagRepoGitHashFastString": "4743f3a564dadc344441e00b34370df018cad119",
+    "DFStringFlagRepoGitHashDynamicString": "4743f3a564dadc344441e00b34370df018cad119",
+    "FStringFlipTimeStampFastString": "2024-10-30T23:14:21.094Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:14:21.094Z"
 }
