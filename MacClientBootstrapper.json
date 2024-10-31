@@ -154,10 +154,12 @@
     "FFlagValidateMachineUseApi": true,
     "FStringDefaultModeratedAvatarBodyImageAssetId": 89053445842149,
     "FStringDefaultModeratedAvatarHeadImageAssetId": 140234539950892,
-    "FFlagMicroProfileCounterOverflowFix_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-30T22:55:40",
     "FFlagUseNewImageOnModeratedThumbnails": true,
+    "FFlagMicroProfileCounterOverflowFix": true,
+    "FFlagEnableLauncherGuard_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-31T16:43:01",
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
+    "FFlagMacInstallerMoveExistingAppBeforeDelete_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-31T16:34:33",
     "DFIntCrashUploadToBacktracePercentage": 10,
     "DeprecatedOSXLinkURL": "https://en.help.roblox.com/hc/articles/203312800",
     "DeprecatedOSXMinorVersion": 9,
@@ -172,8 +174,8 @@
     "DeprecatedOSXMajorVersion": 10,
     "FFlagEnableDeepLinkUseExistingClient": true,
     "FFlagEnableSingleInstanceRobloxClient": true,
-    "FStringFlagRepoGitHashFastString": "4743f3a564dadc344441e00b34370df018cad119",
-    "DFStringFlagRepoGitHashDynamicString": "4743f3a564dadc344441e00b34370df018cad119",
-    "FStringFlipTimeStampFastString": "2024-10-30T23:14:21.094Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-30T23:14:21.094Z"
+    "FStringFlagRepoGitHashFastString": "2df8036d14848dfb62250ea47021bd164665c942",
+    "DFStringFlagRepoGitHashDynamicString": "2df8036d14848dfb62250ea47021bd164665c942",
+    "FStringFlipTimeStampFastString": "2024-10-31T17:18:39.455Z",
+    "DFStringFlipTimeStampDynamicString": "2024-10-31T17:18:39.455Z"
 }
