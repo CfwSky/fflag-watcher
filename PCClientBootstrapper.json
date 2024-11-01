@@ -156,7 +156,9 @@
     "FStringDefaultModeratedAvatarHeadImageAssetId": 140234539950892,
     "FFlagUseNewImageOnModeratedThumbnails": true,
     "FFlagMicroProfileCounterOverflowFix": true,
-    "FFlagEnableLauncherGuard_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-10-31T16:43:01",
+    "FFlagWindowsInstallerUseSyncPost": true,
+    "FFlagWindowsInstallerPostWebLaunch": true,
+    "FFlagEnableLauncherGuard": false,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FFlagUIBloxUseFullPageModalZIndex": true,
@@ -171,8 +173,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "fb559ac314264c6fca62191c94233b321b0e62b8",
-    "DFStringFlagRepoGitHashDynamicString": "fb559ac314264c6fca62191c94233b321b0e62b8",
-    "FStringFlipTimeStampFastString": "2024-10-31T17:18:21.230Z",
-    "DFStringFlipTimeStampDynamicString": "2024-10-31T17:18:21.230Z"
+    "FStringFlagRepoGitHashFastString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
+    "DFStringFlagRepoGitHashDynamicString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
+    "FStringFlipTimeStampFastString": "2024-11-01T00:45:04.446Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T00:45:04.446Z"
 }
