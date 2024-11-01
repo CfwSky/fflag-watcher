@@ -8559,6 +8559,7 @@
     "FFlagRemoveHardCodedFriendLimitPrompt": true,
     "DFIntRakNetMissingPingPongReportThrottleHundredthsPercent": 10,
     "FFlagCleanUpAXAlternativeLandingPageIXP": true,
+    "FFlagMacInstallerUseEventIngest_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-01T15:07:49",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -8891,8 +8892,8 @@
     "FFlagAddSystemProtocolBatteryLevel2": true,
     "FFlagEdpPlayerFeedbackLogIXPExposure": true,
     "FFlagFixCapturesAvailability": true,
-    "FStringFlagRepoGitHashFastString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
-    "DFStringFlagRepoGitHashDynamicString": "a64fe52860be0d5e0fb5520d4d7f0b6856187220",
-    "FStringFlipTimeStampFastString": "2024-11-01T00:45:04.446Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-01T00:45:04.446Z"
+    "FStringFlagRepoGitHashFastString": "36fad7e9c1b204a0ddcdf8bcfa11ebae0197e185",
+    "DFStringFlagRepoGitHashDynamicString": "36fad7e9c1b204a0ddcdf8bcfa11ebae0197e185",
+    "FStringFlipTimeStampFastString": "2024-11-01T15:19:19.953Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-01T15:19:19.953Z"
 }
