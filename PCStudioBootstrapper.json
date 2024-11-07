@@ -160,6 +160,8 @@
     "FFlagHttpGetSyncUseNativeRetry": true,
     "FFlagHttpPostSyncUseNativeRetry": true,
     "FFlagColorPickerSliderOptimization2": true,
+    "FFlagWinInstallerUseTempFolderForUpdate_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T17:47:34",
+    "FFlagMacInstallerUseEventIngest_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-07T18:15:36",
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -173,8 +175,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "ce1d91db6746fe1e252fc52385405980762a3b44",
-    "DFStringFlagRepoGitHashDynamicString": "ce1d91db6746fe1e252fc52385405980762a3b44",
-    "FStringFlipTimeStampFastString": "2024-11-06T20:49:33.138Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-06T20:49:33.138Z"
+    "FStringFlagRepoGitHashFastString": "5f85ff979af3bf682ff3bc504b4851874d57a22b",
+    "DFStringFlagRepoGitHashDynamicString": "5f85ff979af3bf682ff3bc504b4851874d57a22b",
+    "FStringFlipTimeStampFastString": "2024-11-07T18:32:27.795Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-07T18:32:27.795Z"
 }
