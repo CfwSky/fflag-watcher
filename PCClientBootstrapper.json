@@ -150,7 +150,6 @@
     "FStringDefaultModeratedAvatarHeadImageAssetId": 140234539950892,
     "FFlagUseNewImageOnModeratedThumbnails": true,
     "FFlagMicroProfileCounterOverflowFix": true,
-    "FFlagWindowsInstallerUseSyncPost": true,
     "FFlagWindowsInstallerPostWebLaunch": true,
     "FFlagEnableLauncherGuard": false,
     "FFlagInExperienceUserProfileSettingsEnabled_v2": false,
@@ -162,6 +161,7 @@
     "FFlagColorPickerSliderOptimization2": true,
     "FFlagMacInstallerUseEventIngest": true,
     "FFlagWinInstallerUseBITS2": true,
+    "FFlagEnableLauncherGuard2": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -176,8 +176,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "c560dc06325950254746aa427aa037ee62f4f4a1",
-    "DFStringFlagRepoGitHashDynamicString": "c560dc06325950254746aa427aa037ee62f4f4a1",
-    "FStringFlipTimeStampFastString": "2024-11-13T00:50:34.605Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-13T00:50:34.605Z"
+    "FStringFlagRepoGitHashFastString": "948085c1bc34c003143133af570e1f8138ac954e",
+    "DFStringFlagRepoGitHashDynamicString": "948085c1bc34c003143133af570e1f8138ac954e",
+    "FStringFlipTimeStampFastString": "2024-11-14T03:06:21.958Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-14T03:06:21.958Z"
 }
