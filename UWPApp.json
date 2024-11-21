@@ -9056,8 +9056,6 @@
     "FFlagAXFixLayeredClothingPosition": true,
     "FFlagSpotlightManager2": true,
     "FFlagUGCValidateCageMeshDistance": true,
-    "FFlagAXAccessoryAdjustmentFtuxIXPEnabled2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T22:32:58",
-    "FFlagAXDisableHeadRefinementTooltip_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T22:32:58",
     "FFlagUGCValidateStraightenLimbsTransparency2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T22:44:24",
     "DFFlagFixEmptyKick": true,
     "FFlagCapturesShutterSoundHook2": true,
@@ -9069,6 +9067,8 @@
     "DFFlagEmitSafetyTelemetryInCallbackEnable_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T23:19:32",
     "DFFlagPerformanceControlEnableNewMemoryUtilityCurve_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-11-21T23:19:43",
     "DFFlagTouchEventsUseCollisionGroupsThreePhaseRollout": true,
+    "FFlagAXAccessoryAdjustmentFtuxIXPEnabled2": true,
+    "FFlagAXDisableHeadRefinementTooltip": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -9287,8 +9287,8 @@
     "FFlagIxpFastFlagIntegrationUpdateIxpValue": true,
     "FFlagIxpFastFlagIntegrationFetchOnStartup": true,
     "DFIntReloadIxpControllerHundredthPercent": 2500,
-    "FStringFlagRepoGitHashFastString": "7f8e3e7a03936650a52be7a2ee9821ce2cd9433d",
-    "DFStringFlagRepoGitHashDynamicString": "7f8e3e7a03936650a52be7a2ee9821ce2cd9433d",
-    "FStringFlipTimeStampFastString": "2024-11-21T23:36:32.622Z",
-    "DFStringFlipTimeStampDynamicString": "2024-11-21T23:36:32.622Z"
+    "FStringFlagRepoGitHashFastString": "ebb78d2841c79c94d365c91637a87a3cac1bbb8d",
+    "DFStringFlagRepoGitHashDynamicString": "ebb78d2841c79c94d365c91637a87a3cac1bbb8d",
+    "FStringFlipTimeStampFastString": "2024-11-21T23:44:35.698Z",
+    "DFStringFlipTimeStampDynamicString": "2024-11-21T23:44:35.698Z"
 }
