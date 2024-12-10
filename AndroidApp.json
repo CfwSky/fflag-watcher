@@ -9350,6 +9350,7 @@
     "FFlagRemovePSMLDebuggerPlaceSessionModelListener2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:26:57",
     "FFlagBlockNetAssetSchema_Staged": "true;SteadyState;10;30;Revert;2024-12-10T22:27:58",
     "FFlagLuaAppDropdownMenuFixSelectionOrder_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:28:39",
+    "FFlagHideUIWhenVoiceDefaultDisabled_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:38:22",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -9959,8 +9960,10 @@
     "ObbUnzipRemoval": true,
     "FFlagEnablePeekViewFocusNav_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:25:12",
     "FFlagFocusRegistryConnectionRefactor_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:30:46",
-    "FStringFlagRepoGitHashFastString": "4de7d788afd788a28ee040d0a3eab9d75bba37b9",
-    "DFStringFlagRepoGitHashDynamicString": "4de7d788afd788a28ee040d0a3eab9d75bba37b9",
-    "FStringFlipTimeStampFastString": "2024-12-10T22:35:59.029Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-10T22:35:59.029Z"
+    "DFFlagAndroidDebugHeapTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:44:13",
+    "DFFlagAndroidOomScoreTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:44:37",
+    "FStringFlagRepoGitHashFastString": "31138f8bafece92c074bd73f0da63262c0a8abf4",
+    "DFStringFlagRepoGitHashDynamicString": "31138f8bafece92c074bd73f0da63262c0a8abf4",
+    "FStringFlipTimeStampFastString": "2024-12-10T22:52:33.777Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-10T22:52:33.777Z"
 }

@@ -10590,6 +10590,8 @@
     "FFlagVideoStreamAdaptiveBitrate3_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T21:47:47",
     "FFlagAllowDisconnectGuiForOkUnknown_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:25:27",
     "DFLogLogOnDMSetShuttingDown_Staged": "3;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:34:13",
+    "DFFlagEXPCHAT1499Telemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2024-12-10T22:45:58",
+    "DFIntTextChatTelemetrySendAsyncFailureThrottlePermyriad": 7500,
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": true,
@@ -10613,8 +10615,8 @@
     "FFlagScriptSyncM2_5BetaFeature": true,
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
-    "FStringFlagRepoGitHashFastString": "bd0c06ec9114222912fa68bc4d4961296670b8f2",
-    "DFStringFlagRepoGitHashDynamicString": "bd0c06ec9114222912fa68bc4d4961296670b8f2",
-    "FStringFlipTimeStampFastString": "2024-12-10T22:39:08.699Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-10T22:39:08.699Z"
+    "FStringFlagRepoGitHashFastString": "31138f8bafece92c074bd73f0da63262c0a8abf4",
+    "DFStringFlagRepoGitHashDynamicString": "31138f8bafece92c074bd73f0da63262c0a8abf4",
+    "FStringFlipTimeStampFastString": "2024-12-10T22:52:33.777Z",
+    "DFStringFlipTimeStampDynamicString": "2024-12-10T22:52:33.777Z"
 }
