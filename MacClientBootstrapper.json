@@ -184,6 +184,7 @@
     "FFlagAddJoinAttemptId": true,
     "FFlagPassDownSquadExpInvGameOrigin": true,
     "FFlagEnableLauncherGuard2": true,
+    "DFFlagSafeAssignJointWorld": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FFlagAXRemoveDividers": true,
@@ -206,8 +207,8 @@
     "DeprecatedOSXMajorVersion": 10,
     "FFlagEnableDeepLinkUseExistingClient": true,
     "FFlagEnableSingleInstanceRobloxClient": true,
-    "FStringFlagRepoGitHashFastString": "ca8d26d9ad7f3bf2010275eef81fe0d525101f1b",
-    "DFStringFlagRepoGitHashDynamicString": "ca8d26d9ad7f3bf2010275eef81fe0d525101f1b",
-    "FStringFlipTimeStampFastString": "2024-12-19T01:22:07.660Z",
-    "DFStringFlipTimeStampDynamicString": "2024-12-19T01:22:07.660Z"
+    "FStringFlagRepoGitHashFastString": "5d78d370af0a360fcff69ad05aedf54dc8541e20",
+    "DFStringFlagRepoGitHashDynamicString": "5d78d370af0a360fcff69ad05aedf54dc8541e20",
+    "FStringFlipTimeStampFastString": "2025-01-06T19:26:37.780Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-06T19:26:37.780Z"
 }
