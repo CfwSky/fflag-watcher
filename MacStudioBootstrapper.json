@@ -185,6 +185,7 @@
     "FFlagPassDownSquadExpInvGameOrigin": true,
     "FFlagEnableLauncherGuard2": true,
     "DFFlagSafeAssignJointWorld": true,
+    "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime": 100,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FFlagAXRemoveDividers": true,
@@ -197,8 +198,8 @@
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "d37f76f86554dca5634b2ae69818230b3841a513",
-    "DFStringFlagRepoGitHashDynamicString": "d37f76f86554dca5634b2ae69818230b3841a513",
-    "FStringFlipTimeStampFastString": "2025-01-06T22:56:49.320Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-06T22:56:49.320Z"
+    "FStringFlagRepoGitHashFastString": "da94b769d0917e68f73e5adedd7fec67bf4da019",
+    "DFStringFlagRepoGitHashDynamicString": "da94b769d0917e68f73e5adedd7fec67bf4da019",
+    "FStringFlipTimeStampFastString": "2025-01-07T17:55:07.715Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-07T17:55:07.715Z"
 }
