@@ -186,6 +186,8 @@
     "FFlagEnableLauncherGuard2": true,
     "DFFlagSafeAssignJointWorld": true,
     "DFIntRobloxTelemetryThrottlingRenderFidelityOnTime": 100,
+    "FFlagMacInstallerFixRemovingZip": true,
+    "FFlagAXMigrateToRobloxTelemetryApi": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "10-1",
@@ -200,8 +202,8 @@
     "InfluxHundredthsPercentage": 0,
     "InfluxInstallHundredthsPercentage": 10000,
     "ShowInstallSuccessPrompt": true,
-    "FStringFlagRepoGitHashFastString": "da94b769d0917e68f73e5adedd7fec67bf4da019",
-    "DFStringFlagRepoGitHashDynamicString": "da94b769d0917e68f73e5adedd7fec67bf4da019",
-    "FStringFlipTimeStampFastString": "2025-01-07T17:55:07.715Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-07T17:55:07.715Z"
+    "FStringFlagRepoGitHashFastString": "aeca7fa482962f70a215d032d88168311524e9ea",
+    "DFStringFlagRepoGitHashDynamicString": "aeca7fa482962f70a215d032d88168311524e9ea",
+    "FStringFlipTimeStampFastString": "2025-01-08T00:42:08.402Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-08T00:42:08.402Z"
 }
