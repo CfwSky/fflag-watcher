@@ -168,7 +168,7 @@
     "FFlagMacPersonalizedInstallerEnabled2": true,
     "FFlagWinPersonalizedInstallerEnabled2": true,
     "FIntWin78ClientDeprecationLevel": 2,
-    "FIntWin78ClientDeprecationMessageFrequencySeconds": 60,
+    "FIntWin78ClientDeprecationMessageFrequencySeconds": 1,
     "FIntWin78DeprecationEpochTimestamp": 1736964000,
     "FFlagDeprecateWin78": true,
     "FFlagAbuseReportMenuConsoleSupportRefactor": true,
@@ -202,8 +202,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "5caa4f587e14df18f8cf22d266d7ecdf1ecb0a22",
-    "DFStringFlagRepoGitHashDynamicString": "5caa4f587e14df18f8cf22d266d7ecdf1ecb0a22",
-    "FStringFlipTimeStampFastString": "2025-01-11T20:47:26.291Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-11T20:47:26.291Z"
+    "FStringFlagRepoGitHashFastString": "5e63c368779149d533fa9175677daa3c050966f4",
+    "DFStringFlagRepoGitHashDynamicString": "5e63c368779149d533fa9175677daa3c050966f4",
+    "FStringFlipTimeStampFastString": "2025-01-14T00:31:55.557Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-14T00:31:55.557Z"
 }
