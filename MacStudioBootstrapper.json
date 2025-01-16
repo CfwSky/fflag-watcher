@@ -167,7 +167,7 @@
     "FFlagTypesetterAllocOrCrash": true,
     "FFlagMacPersonalizedInstallerEnabled2": true,
     "FFlagWinPersonalizedInstallerEnabled2": true,
-    "FIntWin78ClientDeprecationLevel": 2,
+    "FIntWin78ClientDeprecationLevel": 3,
     "FIntWin78ClientDeprecationMessageFrequencySeconds": 1,
     "FIntWin78DeprecationEpochTimestamp": 1736964000,
     "FFlagDeprecateWin78": true,
@@ -189,7 +189,6 @@
     "FFlagMacInstallerFixRemovingZip": true,
     "FFlagAXMigrateToRobloxTelemetryApi": true,
     "FFlagWinInstallerCheckCRCBeforeUnzip": true,
-    "FFlagAXFixSocialItemDeepLinkToEditor": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagUIBloxUseFullPageModalZIndex": true,
     "FFlagAXRemoveDividers": true,
@@ -202,8 +201,8 @@
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "5e63c368779149d533fa9175677daa3c050966f4",
-    "DFStringFlagRepoGitHashDynamicString": "5e63c368779149d533fa9175677daa3c050966f4",
-    "FStringFlipTimeStampFastString": "2025-01-14T00:31:55.557Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-14T00:31:55.557Z"
+    "FStringFlagRepoGitHashFastString": "bb547fb7d6dfe534cff85c877a6adf2e2d774b99",
+    "DFStringFlagRepoGitHashDynamicString": "bb547fb7d6dfe534cff85c877a6adf2e2d774b99",
+    "FStringFlipTimeStampFastString": "2025-01-16T22:53:55.999Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-16T22:53:55.999Z"
 }
