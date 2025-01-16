@@ -9706,7 +9706,6 @@
     "FFlagStudioActionComponentConversionGroupA": true,
     "FIntMusicFtuxShowDelayMs": 3000,
     "DFFlagInitializeShowDomainAsTitle": true,
-    "FFlagEnableGetHumanoidDescriptionFromUserIdThrottle_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:46:27",
     "DFFlagEnableFullScreenWebview": true,
     "DFFlagFixCommerceWebviewAutoDismiss": true,
     "FFlagEnableCommerceWebviewDomaAsTitleOnDesktop2": true,
@@ -9715,6 +9714,7 @@
     "FLogStudioContext": "Info",
     "FIntMusicFtuxDismissDelayMs": 5000,
     "FFlagFixWrapDeformerPublishingBlockingSavingInStudio": true,
+    "FFlagEnableGetHumanoidDescriptionFromUserIdThrottle": true,
     "FFlagRenderEnableGlobalInstancingMetal": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagVoiceChatStopSendingIceCandidate": false,
@@ -10314,8 +10314,8 @@
     "DFFlagLogMissingDataPing1": true,
     "FFlagFixSkinningLifetimeAndBugs2": true,
     "FFlagPoseDataToSkeleton": true,
-    "FStringFlagRepoGitHashFastString": "af95d77f4a420ce12a2a1c4811f40f09b3f9f4d4",
-    "DFStringFlagRepoGitHashDynamicString": "af95d77f4a420ce12a2a1c4811f40f09b3f9f4d4",
-    "FStringFlipTimeStampFastString": "2025-01-16T23:46:29.601Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-16T23:46:29.601Z"
+    "FStringFlagRepoGitHashFastString": "0cd3e5601172c07527dd2a058902a246bfe5f792",
+    "DFStringFlagRepoGitHashDynamicString": "0cd3e5601172c07527dd2a058902a246bfe5f792",
+    "FStringFlipTimeStampFastString": "2025-01-16T23:52:00.629Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-16T23:52:00.629Z"
 }
