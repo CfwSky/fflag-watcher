@@ -9704,9 +9704,6 @@
     "FFlagFixSoundSessionTelemetryNotRemovingSounds": true,
     "FFlagLuauReferenceAllocatorInNewSolver": true,
     "FFlagStudioActionComponentConversionGroupA": true,
-    "DFFlagRemoveViewLog_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:12:17",
-    "FFlagGeometryBuffersTelemetry_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:12:25",
-    "FLogStudioContext_Staged": "Info;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:24:45",
     "FIntMusicFtuxShowDelayMs": 3000,
     "FIntMusicFtuxDismissDelayMs_Staged": "5000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:38:13",
     "FFlagFixWrapDeformerPublishingBlockingSavingInStudio_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:42:24",
@@ -9715,6 +9712,9 @@
     "DFFlagEnableFullScreenWebview": true,
     "DFFlagFixCommerceWebviewAutoDismiss": true,
     "FFlagEnableCommerceWebviewDomaAsTitleOnDesktop2": true,
+    "DFFlagRemoveViewLog": true,
+    "FFlagGeometryBuffersTelemetry": true,
+    "FLogStudioContext": "Info",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -10358,8 +10358,8 @@
     "FFlagLuaAppFixOmniFeedRefreshEffect": true,
     "FFlagLuaAppRewriteTokenRefresh": true,
     "FFlagReshufflePartyIconsInUnibar": true,
-    "FStringFlagRepoGitHashFastString": "bb547fb7d6dfe534cff85c877a6adf2e2d774b99",
-    "DFStringFlagRepoGitHashDynamicString": "bb547fb7d6dfe534cff85c877a6adf2e2d774b99",
-    "FStringFlipTimeStampFastString": "2025-01-16T22:53:55.999Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-16T22:53:55.999Z"
+    "FStringFlagRepoGitHashFastString": "e120f9065d6f6cb17248eacb0e1f7ba5cc83b3b3",
+    "DFStringFlagRepoGitHashDynamicString": "e120f9065d6f6cb17248eacb0e1f7ba5cc83b3b3",
+    "FStringFlipTimeStampFastString": "2025-01-16T23:27:09.486Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-16T23:27:09.486Z"
 }

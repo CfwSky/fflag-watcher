@@ -9704,7 +9704,6 @@
     "FFlagFixSoundSessionTelemetryNotRemovingSounds": true,
     "FFlagLuauReferenceAllocatorInNewSolver": true,
     "FFlagStudioActionComponentConversionGroupA": true,
-    "FLogStudioContext_Staged": "Info;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:24:45",
     "FIntMusicFtuxShowDelayMs": 3000,
     "FIntMusicFtuxDismissDelayMs_Staged": "5000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:38:13",
     "FFlagFixWrapDeformerPublishingBlockingSavingInStudio_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-16T22:42:24",
@@ -9715,6 +9714,7 @@
     "FFlagEnableCommerceWebviewDomaAsTitleOnDesktop2": true,
     "DFFlagRemoveViewLog": true,
     "FFlagGeometryBuffersTelemetry": true,
+    "FLogStudioContext": "Info",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11018,8 +11018,8 @@
     "FFlagScriptSyncM2_5BetaFeature": true,
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
-    "FStringFlagRepoGitHashFastString": "74aee1230b7b88aa9febd2467733b75b4dffaa4b",
-    "DFStringFlagRepoGitHashDynamicString": "74aee1230b7b88aa9febd2467733b75b4dffaa4b",
-    "FStringFlipTimeStampFastString": "2025-01-16T23:17:07.716Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-16T23:17:07.716Z"
+    "FStringFlagRepoGitHashFastString": "e120f9065d6f6cb17248eacb0e1f7ba5cc83b3b3",
+    "DFStringFlagRepoGitHashDynamicString": "e120f9065d6f6cb17248eacb0e1f7ba5cc83b3b3",
+    "FStringFlipTimeStampFastString": "2025-01-16T23:27:09.486Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-16T23:27:09.486Z"
 }
