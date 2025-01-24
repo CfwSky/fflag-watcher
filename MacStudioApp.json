@@ -9780,7 +9780,6 @@
     "FFlagRequireByStringErrorImprovements": true,
     "FFlagUseBubbleChatBillboardV4": true,
     "FFlagStudio3dViewFocusOnCreateConstraint2": true,
-    "FFlagRobloxTelemetryUseEventIngestBatchEvent22": true,
     "FFlagImproveRequireParameterType": true,
     "FFlagAutocompleteRequirePathSuggestions2": true,
     "FFlagRequireByStringAutocompleteEnabled2": true,
@@ -11137,7 +11136,8 @@
     "FFlagCheckShouldShowJoinVoiceInEvent": true,
     "FFlagAXFixWearAfterTryOnOwnedBundles": true,
     "FFlagReportMeshesUploadTelemetry": true,
-    "FFlagLuaAppFixSponsoredGridTile_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-24T19:51:46",
+    "FFlagLuaAppFixSponsoredGridTile": true,
+    "FFlagAXFixWearAfterTryOnOwnedBundles_Rollout": "false;60;2025-01-24T22:54:53",
     "FLogSignalRNotification": 0,
     "FStringFeature_CookieProtocolEnabled": "496;100",
     "FFlagDebugLuaAppValidateProps": true,
@@ -11158,8 +11158,8 @@
     "FFlagScriptSyncM2_5BetaFeature": true,
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
-    "FStringFlagRepoGitHashFastString": "0a3472bd13975feaa609b6bf0cdb3b3becaf8198",
-    "DFStringFlagRepoGitHashDynamicString": "0a3472bd13975feaa609b6bf0cdb3b3becaf8198",
-    "FStringFlipTimeStampFastString": "2025-01-24T19:52:36.594Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-24T19:52:36.594Z"
+    "FStringFlagRepoGitHashFastString": "9dd67187802a37ef1dff6c0361fdefe19eab2338",
+    "DFStringFlagRepoGitHashDynamicString": "9dd67187802a37ef1dff6c0361fdefe19eab2338",
+    "FStringFlipTimeStampFastString": "2025-01-24T22:55:26.413Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-24T22:55:26.413Z"
 }
