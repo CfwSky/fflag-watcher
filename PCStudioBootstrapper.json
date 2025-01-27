@@ -202,8 +202,8 @@
     "FFlagWindowsStudioFirstLaunchArgument2": true,
     "DFFlagVoiceChatEnableApiSecurityCheck_PlaceFilter": "false;16725311284",
     "FFlagNotificationPersonAddIcons": true,
-    "FStringFlagRepoGitHashFastString": "c9879635578b86105c40b12e6397caa82ab29140",
-    "DFStringFlagRepoGitHashDynamicString": "c9879635578b86105c40b12e6397caa82ab29140",
-    "FStringFlipTimeStampFastString": "2025-01-27T20:12:07.044Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-27T20:12:07.044Z"
+    "FStringFlagRepoGitHashFastString": "6c49e72c4cd98ba84cc16be8540d1c3b4a308cc3",
+    "DFStringFlagRepoGitHashDynamicString": "6c49e72c4cd98ba84cc16be8540d1c3b4a308cc3",
+    "FStringFlipTimeStampFastString": "2025-01-27T21:24:15.292Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-27T21:24:15.292Z"
 }
