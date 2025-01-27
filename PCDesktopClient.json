@@ -9819,13 +9819,13 @@
     "DFIntPartyVoiceLaunchFlowTelemetryThrottle": 10000,
     "FFlagPartyVoiceSidFix": true,
     "DFFlagUseVisBugChecks": true,
-    "DFIntReportContextActionServiceBindEventsHundrethsPercent_Staged": "100;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T20:38:27",
     "FFlagMakePSJoinSessionAsync2": true,
     "FFlagForceConversationalAIScriptDiffTreatment_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T20:58:10",
     "FFlagMacEvenBetterTrackpadScrolling": true,
     "FIntAvatarAutosetupPollingTimeoutSeconds": 1800,
     "DFIntRobloxTelemetryThrottlingTTMQMilestone0Mesh_Staged": "1000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T21:23:23",
     "DFIntSDLGameControllerAxisDriftDeadZoneHundredth_Staged": "10;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T21:27:29",
+    "DFIntReportContextActionServiceBindEventsHundrethsPercent": 100,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -10454,9 +10454,8 @@
     "DFFlagArrayTyping": true,
     "FFlagAXFixWearAfterTryOnOwnedBundles": false,
     "FFlagSurfaceControllerUseDMLock": true,
-    "FFlagEarlyDataModelInit6_Staged": "true;SteadyState;10;30;Revert;2025-01-27T21:25:27",
-    "FStringFlagRepoGitHashFastString": "1126be499d70c0e5af499cda8cb200fd21801b5b",
-    "DFStringFlagRepoGitHashDynamicString": "1126be499d70c0e5af499cda8cb200fd21801b5b",
-    "FStringFlipTimeStampFastString": "2025-01-27T21:28:01.261Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-27T21:28:01.261Z"
+    "FStringFlagRepoGitHashFastString": "7fb094fcfab567d4f17c39ad73444f14fe56369b",
+    "DFStringFlagRepoGitHashDynamicString": "7fb094fcfab567d4f17c39ad73444f14fe56369b",
+    "FStringFlipTimeStampFastString": "2025-01-27T21:42:18.254Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-27T21:42:18.254Z"
 }
