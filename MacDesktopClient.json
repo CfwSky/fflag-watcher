@@ -9825,6 +9825,7 @@
     "FFlagMacEvenBetterTrackpadScrolling": true,
     "FIntAvatarAutosetupPollingTimeoutSeconds": 1800,
     "DFIntRobloxTelemetryThrottlingTTMQMilestone0Mesh_Staged": "1000;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T21:23:23",
+    "DFIntSDLGameControllerAxisDriftDeadZoneHundredth_Staged": "10;SteadyState;10;30;Rollout;100;30;Promote;2025-01-27T21:27:29",
     "FFlagRenderEnableGlobalInstancingMetal": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagVoiceChatStopSendingIceCandidate": false,
@@ -10439,8 +10440,8 @@
     "FFlagPhysicalPropertiesRBXArrayToStdArray": true,
     "FFlagAddDuaFriendCarouselImpressions": true,
     "FFlagLuaAppRemoveEventsSessionFromEdp": true,
-    "FStringFlagRepoGitHashFastString": "6c49e72c4cd98ba84cc16be8540d1c3b4a308cc3",
-    "DFStringFlagRepoGitHashDynamicString": "6c49e72c4cd98ba84cc16be8540d1c3b4a308cc3",
-    "FStringFlipTimeStampFastString": "2025-01-27T21:24:15.292Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-27T21:24:15.292Z"
+    "FStringFlagRepoGitHashFastString": "1126be499d70c0e5af499cda8cb200fd21801b5b",
+    "DFStringFlagRepoGitHashDynamicString": "1126be499d70c0e5af499cda8cb200fd21801b5b",
+    "FStringFlipTimeStampFastString": "2025-01-27T21:28:01.261Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-27T21:28:01.261Z"
 }
