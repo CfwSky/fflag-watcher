@@ -10468,8 +10468,8 @@
     "FFlagAXFixWearAfterTryOnOwnedBundles": false,
     "FFlagSurfaceControllerUseDMLock": true,
     "FFlagEarlyDataModelInit6": true,
-    "FStringFlagRepoGitHashFastString": "97b8757280051d89150528c46f2fb63552e2b7bc",
-    "DFStringFlagRepoGitHashDynamicString": "97b8757280051d89150528c46f2fb63552e2b7bc",
-    "FStringFlipTimeStampFastString": "2025-01-28T21:52:03.775Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-28T21:52:03.775Z"
+    "FStringFlagRepoGitHashFastString": "eba512bf9d3945d0b51ae54249a5a0de116b0588",
+    "DFStringFlagRepoGitHashDynamicString": "eba512bf9d3945d0b51ae54249a5a0de116b0588",
+    "FStringFlipTimeStampFastString": "2025-01-28T22:00:45.973Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-28T22:00:45.973Z"
 }
