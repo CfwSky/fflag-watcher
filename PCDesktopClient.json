@@ -9830,8 +9830,8 @@
     "DFFlagSTFSMUpdateAppVersion": true,
     "FFlagVideoCapturesMetadataLoadingFix": true,
     "FFlagGuiObjectIsOverUseRect2D2": true,
-    "FFlagImproveChangeHistoryAttachPerf_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T17:00:25",
-    "DFLogMissingDataPing_Staged": "6;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T17:01:12",
+    "FFlagSimCSG3PreserveAttachmentsNoConstraints2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T18:04:00",
+    "FFlagImproveChangeHistoryAttachPerf": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -10463,8 +10463,8 @@
     "FFlagAXFixWearAfterTryOnOwnedBundles": false,
     "FFlagSurfaceControllerUseDMLock": true,
     "FFlagEarlyDataModelInit6": true,
-    "FStringFlagRepoGitHashFastString": "f1b17f6fb2cbe3703d9f81651f395bb01e53e770",
-    "DFStringFlagRepoGitHashDynamicString": "f1b17f6fb2cbe3703d9f81651f395bb01e53e770",
-    "FStringFlipTimeStampFastString": "2025-01-28T17:43:47.406Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-28T17:43:47.406Z"
+    "FStringFlagRepoGitHashFastString": "7deee7a3a868c4cc25997505b4dabfdd84a6bc77",
+    "DFStringFlagRepoGitHashDynamicString": "7deee7a3a868c4cc25997505b4dabfdd84a6bc77",
+    "FStringFlipTimeStampFastString": "2025-01-28T18:07:42.092Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-28T18:07:42.092Z"
 }
