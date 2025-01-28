@@ -10093,8 +10093,8 @@
     "FFlagWindowsFixCustomSchemaLinks": true,
     "FFlagReferredByPlayerIdParamForUrl": true,
     "DFFlagRakNetMissingPingUpgrade": true,
-    "DFFlagDeviceErrorConstructionFix_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T17:36:04",
     "FFlagVoxelBoxSBO_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-01-28T17:42:57",
+    "DFFlagDeviceErrorConstructionFix": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -10462,8 +10462,8 @@
     "FFlagAXFixWearAfterTryOnOwnedBundles": false,
     "FFlagSurfaceControllerUseDMLock": true,
     "FFlagEarlyDataModelInit6": true,
-    "FStringFlagRepoGitHashFastString": "070194e215e672e169622b0f941680b7ba501809",
-    "DFStringFlagRepoGitHashDynamicString": "070194e215e672e169622b0f941680b7ba501809",
-    "FStringFlipTimeStampFastString": "2025-01-28T18:22:01.251Z",
-    "DFStringFlipTimeStampDynamicString": "2025-01-28T18:22:01.251Z"
+    "FStringFlagRepoGitHashFastString": "ee61999c0abfe3cd76b34b4b0d8f4f96466eabe2",
+    "DFStringFlagRepoGitHashDynamicString": "ee61999c0abfe3cd76b34b4b0d8f4f96466eabe2",
+    "FStringFlipTimeStampFastString": "2025-01-28T18:42:53.440Z",
+    "DFStringFlipTimeStampDynamicString": "2025-01-28T18:42:53.440Z"
 }
