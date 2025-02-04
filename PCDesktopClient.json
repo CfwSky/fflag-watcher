@@ -9994,12 +9994,10 @@
     "FFlagBuildInitialCacheFix": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagVideoDecoderFastSeek3_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-04T21:28:47",
-    "DFFlagMeshCompression_Staged": "true;SteadyState;10;30;Revert;2025-02-04T21:39:03",
-    "DFFlagMeshCompressionTelemetry_Staged": "true;SteadyState;10;30;Revert;2025-02-04T21:39:03",
-    "FFlagFileMeshToChunks2_Staged": "true;SteadyState;10;30;Revert;2025-02-04T21:39:03",
     "FFlagLuaAppMediaGalleryShimmer": true,
     "FFlagReportClientRbxmBundleSplitExperimentTreatment2": true,
     "FFlagEdpContextRedesignForce_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-04T21:54:50",
+    "DFFlagMPScopeCPUFreq_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-04T22:13:06",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -10629,8 +10627,8 @@
     "FFlagEarlyDataModelInit6": true,
     "FFlagEnableReactPerfSummaryEvents": true,
     "FFlagGlobalSettingsEngineModule": true,
-    "FStringFlagRepoGitHashFastString": "4657ac48864bee4d2c0ff02b5c9a63f00d63fac1",
-    "DFStringFlagRepoGitHashDynamicString": "4657ac48864bee4d2c0ff02b5c9a63f00d63fac1",
-    "FStringFlipTimeStampFastString": "2025-02-04T22:08:45.737Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-04T22:08:45.737Z"
+    "FStringFlagRepoGitHashFastString": "805252832492611d7a909f1b855ff90701273b4f",
+    "DFStringFlagRepoGitHashDynamicString": "805252832492611d7a909f1b855ff90701273b4f",
+    "FStringFlipTimeStampFastString": "2025-02-04T22:13:58.651Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-04T22:13:58.651Z"
 }
