@@ -10446,6 +10446,7 @@
     "FStringGameInviteBannerEnabledGameIds2": "6173080615,1831550657,1235188606,3876150506,2380077519,2992873140,4858475432,6749060816",
     "FStringProfileRepositionExperimentLayer": "Social.ProfilePeekView",
     "FFlagUseRefactoredAdPlayer_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T17:34:59",
+    "DFFlagSafetyServiceEnableScreenshotUserMetadata_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-14T18:05:06",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -10815,8 +10816,8 @@
     "FFlagCancelTimerOnUnmount": true,
     "FFlagEnableTimeToSelectOffsetStat": true,
     "FFlagEnableTimeToSelectStat": true,
-    "FStringFlagRepoGitHashFastString": "584b9f5bb9e200f543ea39ae9bf1f6fe3929c018",
-    "DFStringFlagRepoGitHashDynamicString": "584b9f5bb9e200f543ea39ae9bf1f6fe3929c018",
-    "FStringFlipTimeStampFastString": "2025-02-14T17:53:55.041Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-14T17:53:55.041Z"
+    "FStringFlagRepoGitHashFastString": "15be1d09b73c747abec8540d43712de8699999ca",
+    "DFStringFlagRepoGitHashDynamicString": "15be1d09b73c747abec8540d43712de8699999ca",
+    "FStringFlipTimeStampFastString": "2025-02-14T18:06:18.565Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-14T18:06:18.565Z"
 }
