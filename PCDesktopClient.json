@@ -10182,7 +10182,7 @@
     "FFlagSimConstraintToolInvalidMembers": true,
     "DFFlagSimCalcUnifiedInertia": true,
     "DFFlagSimWarnUnassembledParts2": true,
-    "DFFlagSimRemoveCollisionIndexonPrimitiveGeometryChanged": true,
+    "DFFlagSimRemoveCollisionIndexonPrimitiveGeometryChanged": false,
     "FFlagDisableTestTextForAvatarFee": true,
     "DFFlagSimAeroFixConvexDeserializedIndices": true,
     "FFlagClientErrorAdditionalArgs": true,
@@ -10234,6 +10234,7 @@
     "FFlagLuauVectorLibNativeDot_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T22:17:48",
     "FFlagDeprecateFriendsAPI_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T22:47:10",
     "FFlagAddFriendsTelemetryEvents": true,
+    "FFlagLuauAllowComplexTypesInGenericParams_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T22:56:34",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -10918,12 +10919,11 @@
     "FFlagLuaAppNilEventImpressionMutedError": true,
     "FFlagWindowsReportInstallerExpEnrollment": true,
     "FFlagSimSolverRefactorLDLTaskManagement": true,
-    "DFFlagSimRemoveCollisionIndexonPrimitiveGeometryChanged_Staged": "false;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T21:51:21",
     "DFFlagMicroprofilerThreadIds_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T22:06:26",
     "FFlagLuaAppEdpSingleColumnIxp": true,
     "FFlagLuaAppEventsListCarouselUniqueImpressionsTag_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-20T22:49:58",
-    "FStringFlagRepoGitHashFastString": "e07de4e505e1b3fdd3ebd7ad71c4de34c16fff08",
-    "DFStringFlagRepoGitHashDynamicString": "e07de4e505e1b3fdd3ebd7ad71c4de34c16fff08",
-    "FStringFlipTimeStampFastString": "2025-02-20T22:53:37.729Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-20T22:53:37.729Z"
+    "FStringFlagRepoGitHashFastString": "16793588e3129ee4d1f8ab68fa1ffcf40d146492",
+    "DFStringFlagRepoGitHashDynamicString": "16793588e3129ee4d1f8ab68fa1ffcf40d146492",
+    "FStringFlipTimeStampFastString": "2025-02-20T22:59:33.277Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-20T22:59:33.277Z"
 }
