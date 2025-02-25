@@ -10265,6 +10265,8 @@
     "AxisAdornmentGrabSize": 12,
     "AllowVideoPreRoll": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagContentPostsUseThumbnailsForAssets_v2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-25T17:43:17",
+    "DFFlagSkipInaccessiblePropDesc2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-25T17:43:19",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -10588,6 +10590,7 @@
     "FFlagExpChatEnableChannelTabsUIFix2": true,
     "DFFlagRenderRecordMemoryInShaderTime": true,
     "FFlagSQLiteDisableWalAutoCheckpoint": true,
+    "FFlagLuaAppSupportHeroUnit2_Staged": "true;SteadyState;10;30;Rollout;100;30;Promote;2025-02-25T17:43:18",
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -10964,8 +10967,8 @@
     "FFlagPartyVoiceMuteOthers": true,
     "DFFlagRakNetMissingPingReport": true,
     "DFFlagConvexDecompCompressionAnalytics660": true,
-    "FStringFlagRepoGitHashFastString": "310140320699bb334708b6173ed713fc771db1fa",
-    "DFStringFlagRepoGitHashDynamicString": "310140320699bb334708b6173ed713fc771db1fa",
-    "FStringFlipTimeStampFastString": "2025-02-25T17:37:16.797Z",
-    "DFStringFlipTimeStampDynamicString": "2025-02-25T17:37:16.797Z"
+    "FStringFlagRepoGitHashFastString": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+    "DFStringFlagRepoGitHashDynamicString": "2b9a649dfd916851ea935129fb22abac804b7c1e",
+    "FStringFlipTimeStampFastString": "2025-02-25T17:46:56.876Z",
+    "DFStringFlipTimeStampDynamicString": "2025-02-25T17:46:56.876Z"
 }
