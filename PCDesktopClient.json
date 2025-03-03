@@ -11067,10 +11067,10 @@
     "FFlagFixBTIDState": true,
     "FFlagFixBTIDStateTelemetry": true,
     "FFlagLuaAppSendSingleGameItemGameImpressions": true,
-    "FFlagPerformanceControlPredictiveAPITelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-03T20:06:24",
     "FFlagQuickPayUpsell": true,
-    "FStringFlagRepoGitHashFastString": "1841c4a47530f918e6c6f102d0cb5777d4d2ec34",
-    "DFStringFlagRepoGitHashDynamicString": "1841c4a47530f918e6c6f102d0cb5777d4d2ec34",
-    "FStringFlipTimeStampFastString": "2025-03-03T21:07:27.518Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-03T21:07:27.518Z"
+    "FFlagPerformanceControlPredictiveAPITelemetry": true,
+    "FStringFlagRepoGitHashFastString": "a6886f8fd7aeabb41576f79f77d72ff6b6d7a2f1",
+    "DFStringFlagRepoGitHashDynamicString": "a6886f8fd7aeabb41576f79f77d72ff6b6d7a2f1",
+    "FStringFlipTimeStampFastString": "2025-03-03T21:17:54.443Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-03T21:17:54.443Z"
 }
