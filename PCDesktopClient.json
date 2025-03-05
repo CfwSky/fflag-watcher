@@ -10456,6 +10456,7 @@
     "FFlagNavigationUseBuildImprovedRegions4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
     "FFlagPathfindingSupportPartialPath4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
     "FFlagPathfindingUseImprovedSearch4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
+    "FFlagInstallersUseV3BucketSettings_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:03:09",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -10755,6 +10756,9 @@
     "DFFlagPathfindingQueryFilterAddFromTo": true,
     "DFFlagSafetyServiceScreenshotMetadataStruct": true,
     "FFlagGameSettingsNumberInputRowRangeCheck": true,
+    "FStringBackgroundDownloadExperimentBucketSettings3_Staged": "v4-20-29;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:01:43",
+    "FFlagWinBackgroundDownloadUpdates2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:03:12",
+    "FFlagLuaAppFixEventTileGsubCrash_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:03:33",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11130,8 +11134,8 @@
     "FFlagPerformanceControlPredictiveAPINotConsume": true,
     "FFlagPerformanceControlRequestCompleteEvent2": true,
     "FFlagAddDMLogging": true,
-    "FStringFlagRepoGitHashFastString": "9cd3d2ee884a129bccdd65af1cf8299859aa8fcb",
-    "DFStringFlagRepoGitHashDynamicString": "9cd3d2ee884a129bccdd65af1cf8299859aa8fcb",
-    "FStringFlipTimeStampFastString": "2025-03-05T23:03:06.901Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-05T23:03:06.901Z"
+    "FStringFlagRepoGitHashFastString": "e8b250b57cb790c5990a362d1ef2e885810c76df",
+    "DFStringFlagRepoGitHashDynamicString": "e8b250b57cb790c5990a362d1ef2e885810c76df",
+    "FStringFlipTimeStampFastString": "2025-03-05T23:06:19.558Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-05T23:06:19.558Z"
 }
