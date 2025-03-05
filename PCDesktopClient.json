@@ -8699,7 +8699,6 @@
     "FFlagRbxStorageSkipOldCacheSize": true,
     "FFlagStudioDockingDisableCorruptionChecks": true,
     "DFFlagSessionTrackingAddAndroidSocAndSku": true,
-    "FFlagPathfindingSupportPartialPath4": false,
     "FFlagLegacyFindReplaceUsageTelemetry": true,
     "FFlagEnableCoreScriptAndPluginActorVMPools": true,
     "FFlagEnableScriptRuntime3": true,
@@ -10454,6 +10453,9 @@
     "FFlagLuaAppDesktopFriendCarouselClicks": true,
     "FFlagEnableProfilePlatformCatalogNetworking": true,
     "DFFlagSimRemoveRecursionsForDeepTrees": true,
+    "FFlagNavigationUseBuildImprovedRegions4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
+    "FFlagPathfindingSupportPartialPath4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
+    "FFlagPathfindingUseImprovedSearch4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -11128,8 +11130,8 @@
     "FFlagPerformanceControlPredictiveAPINotConsume": true,
     "FFlagPerformanceControlRequestCompleteEvent2": true,
     "FFlagAddDMLogging": true,
-    "FStringFlagRepoGitHashFastString": "7985a4788a4b099558834b683d0c727efa0ef23a",
-    "DFStringFlagRepoGitHashDynamicString": "7985a4788a4b099558834b683d0c727efa0ef23a",
-    "FStringFlipTimeStampFastString": "2025-03-05T22:11:07.690Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-05T22:11:07.690Z"
+    "FStringFlagRepoGitHashFastString": "9cd3d2ee884a129bccdd65af1cf8299859aa8fcb",
+    "DFStringFlagRepoGitHashDynamicString": "9cd3d2ee884a129bccdd65af1cf8299859aa8fcb",
+    "FStringFlipTimeStampFastString": "2025-03-05T23:03:06.901Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-05T23:03:06.901Z"
 }
