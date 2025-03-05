@@ -10457,6 +10457,8 @@
     "FFlagPathfindingSupportPartialPath4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
     "FFlagPathfindingUseImprovedSearch4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:00:09",
     "FFlagInstallersUseV3BucketSettings_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:03:09",
+    "DFFlagRoundUpAvailableWidthCheck_Staged": "true;SteadyState;10;30;Revert;2025-03-05T23:10:17",
+    "FFlagProfilePlatformEnableStore_V2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:10:20",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -11134,8 +11136,9 @@
     "FFlagPerformanceControlPredictiveAPINotConsume": true,
     "FFlagPerformanceControlRequestCompleteEvent2": true,
     "FFlagAddDMLogging": true,
-    "FStringFlagRepoGitHashFastString": "e8b250b57cb790c5990a362d1ef2e885810c76df",
-    "DFStringFlagRepoGitHashDynamicString": "e8b250b57cb790c5990a362d1ef2e885810c76df",
-    "FStringFlipTimeStampFastString": "2025-03-05T23:06:19.558Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-05T23:06:19.558Z"
+    "DFFlagAddTeleportFailedToDurationLogger_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T23:11:30",
+    "FStringFlagRepoGitHashFastString": "801dc0ea03a55fd31c4e5fb1f52daa65f56fe560",
+    "DFStringFlagRepoGitHashDynamicString": "801dc0ea03a55fd31c4e5fb1f52daa65f56fe560",
+    "FStringFlipTimeStampFastString": "2025-03-05T23:13:37.322Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-05T23:13:37.322Z"
 }
