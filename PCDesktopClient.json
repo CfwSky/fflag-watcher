@@ -10451,6 +10451,7 @@
     "FFlagPluginOTAAllowGuacUpdate": true,
     "FFlagLuauMixedModeDefFinderTraversesTypeOf": true,
     "DFIntEstimatedGmaSafeVideoMemoryMB_Staged": "150;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T19:38:53",
+    "DFFlagInvalidStringAtomWarning_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-05T19:44:14",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -11128,8 +11129,8 @@
     "FFlagPerformanceControlPredictiveAPINotConsume": true,
     "FFlagPerformanceControlRequestCompleteEvent2": true,
     "FFlagAddDMLogging": true,
-    "FStringFlagRepoGitHashFastString": "4e0aca8ab671c4f0da6b0bf60350c60cfbb0671a",
-    "DFStringFlagRepoGitHashDynamicString": "4e0aca8ab671c4f0da6b0bf60350c60cfbb0671a",
-    "FStringFlipTimeStampFastString": "2025-03-05T19:40:32.025Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-05T19:40:32.025Z"
+    "FStringFlagRepoGitHashFastString": "387c0544ae6a305686325213674f7f6a1c340eb5",
+    "DFStringFlagRepoGitHashDynamicString": "387c0544ae6a305686325213674f7f6a1c340eb5",
+    "FStringFlipTimeStampFastString": "2025-03-05T19:45:52.960Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-05T19:45:52.960Z"
 }
