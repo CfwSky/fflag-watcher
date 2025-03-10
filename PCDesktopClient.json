@@ -10557,8 +10557,6 @@
     "DFFlagExperienceChatTimeoutChatReceiver": true,
     "FFlagSduiUnifiedLoggingComponentType": true,
     "FFlagUnifiedLoggingMobileAdsId": true,
-    "FFlagMuteSessionServiceErrorUWP_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-10T21:43:26",
-    "FFlagFixEditableImageDecodingCorruptImageCrash_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-10T21:45:09",
     "FFlagNoPartialPublishablePublish_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-10T21:45:31",
     "DFFlagSTFSMAddLaunchTimestamp": true,
     "FFlagTextBoxEmitReturn": true,
@@ -10573,6 +10571,9 @@
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "DFFlagSafeSensorBase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-10T22:39:01",
     "DFFlagDataStoreEnableLockIdParam": true,
+    "FFlagAddFriendsContainerFunctionalized_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-10T22:47:38",
+    "FFlagFixEditableImageDecodingCorruptImageCrash": true,
+    "FFlagMuteSessionServiceErrorUWP": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11251,8 +11252,8 @@
     "FFlagEnableCrossExpVoice3": true,
     "FFlagLuaAppEdpFixDefaultBanner": true,
     "FFlagDisallowSquadLobbyBannersInlineButtons": true,
-    "FStringFlagRepoGitHashFastString": "faaeffa8c7a4854e02ad0e07a2fcc97e68e8eede",
-    "DFStringFlagRepoGitHashDynamicString": "faaeffa8c7a4854e02ad0e07a2fcc97e68e8eede",
-    "FStringFlipTimeStampFastString": "2025-03-10T22:44:04.940Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-10T22:44:04.940Z"
+    "FStringFlagRepoGitHashFastString": "86b59215d99aaafae8476e8f50f3e090482bb0e0",
+    "DFStringFlagRepoGitHashDynamicString": "86b59215d99aaafae8476e8f50f3e090482bb0e0",
+    "FStringFlipTimeStampFastString": "2025-03-10T22:51:52.666Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-10T22:51:52.666Z"
 }
