@@ -10571,7 +10571,7 @@
     "DFFlagGetConnectedPartsRecursiveUseStack": true,
     "DFFlagPreciseCFrameReplication": true,
     "DFFlagSafeSensorBase": true,
-    "FFlagAXExposeLayerForEventAblation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-10T23:58:45",
+    "FFlagAXExposeLayerForEventAblation": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -11250,8 +11250,8 @@
     "FFlagEnableCrossExpVoice3": true,
     "FFlagLuaAppEdpFixDefaultBanner": true,
     "FFlagDisallowSquadLobbyBannersInlineButtons": true,
-    "FStringFlagRepoGitHashFastString": "c2d0bb611c0bf64973d67e1a2ab9fded2c797240",
-    "DFStringFlagRepoGitHashDynamicString": "c2d0bb611c0bf64973d67e1a2ab9fded2c797240",
-    "FStringFlipTimeStampFastString": "2025-03-10T23:59:37.281Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-10T23:59:37.281Z"
+    "FStringFlagRepoGitHashFastString": "9561b90d1e1209bd0f511f125107ecb6c134aa03",
+    "DFStringFlagRepoGitHashDynamicString": "9561b90d1e1209bd0f511f125107ecb6c134aa03",
+    "FStringFlipTimeStampFastString": "2025-03-11T03:52:06.193Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-11T03:52:06.193Z"
 }
