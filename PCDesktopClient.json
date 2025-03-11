@@ -10587,7 +10587,7 @@
     "FFlagPathfindingSupportPartialPath4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-11T17:36:16",
     "FFlagPathfindingUseImprovedSearch4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-11T17:36:16",
     "DFFlagIkControlRecomputeChainOnScale_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-11T17:36:28",
-    "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagBuildInitialCacheFix": true,
     "FFlagLogBadgeAwardDismissed": true,
     "FFlagLogBadgeAwardImpression": true,
     "FFlagLogFriendRequestDismissed": true,
@@ -10607,7 +10607,7 @@
     "FFlagPerformanceControlRecordTunableTimeToComplete": true,
     "FFlagLuauLibWhereErrorAutoreserve": true,
     "FFlagLuauSubtypingFixTailPack": true,
-    "FFlagBuildInitialCacheFix": true,
+    "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -11283,8 +11283,8 @@
     "FFlagEnableCrossExpVoice3": true,
     "FFlagLuaAppEdpFixDefaultBanner": true,
     "FFlagDisallowSquadLobbyBannersInlineButtons": true,
-    "FStringFlagRepoGitHashFastString": "2024a62885f3dd1048ecad0b8ceae4331a12e8b8",
-    "DFStringFlagRepoGitHashDynamicString": "2024a62885f3dd1048ecad0b8ceae4331a12e8b8",
-    "FStringFlipTimeStampFastString": "2025-03-11T18:05:08.127Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-11T18:05:08.127Z"
+    "FStringFlagRepoGitHashFastString": "85d96a2955cb215c6d30ca6b2bbf52b7282649fd",
+    "DFStringFlagRepoGitHashDynamicString": "85d96a2955cb215c6d30ca6b2bbf52b7282649fd",
+    "FStringFlipTimeStampFastString": "2025-03-11T18:07:42.018Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-11T18:07:42.018Z"
 }
