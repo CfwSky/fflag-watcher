@@ -10628,6 +10628,11 @@
     "FFlagEnableAnalyticIdInRobuxUpsell": true,
     "FFlagReportAudioChannelMixerSplitterUsage": true,
     "FFlagAXDebugCreateHumanoidModelError": true,
+    "FFlagDevFrameworkOnRightClickPosition_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T16:04:18",
+    "FFlagDevFrameworkSliderInputValidation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T16:04:59",
+    "FIntBugReporterErrorHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T16:20:54",
+    "EnableAndroidBugReporterProtocol": true,
+    "DFIntReportOversizedUnrelItemDroppedUnfairlyHP_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-12T16:47:43",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -11302,8 +11307,8 @@
     "FFlagEnableCrossExpVoice3": true,
     "FFlagPerformanceControlReleaseAPI3": true,
     "DFFlagBetterPatcherWait": true,
-    "FStringFlagRepoGitHashFastString": "a46bc9fc67e3b39c2e9f61f423ffd73f3279ee60",
-    "DFStringFlagRepoGitHashDynamicString": "a46bc9fc67e3b39c2e9f61f423ffd73f3279ee60",
-    "FStringFlipTimeStampFastString": "2025-03-12T01:03:20.480Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-12T01:03:20.480Z"
+    "FStringFlagRepoGitHashFastString": "94040900297b2f676875462527f39e3b1f893aef",
+    "DFStringFlagRepoGitHashDynamicString": "94040900297b2f676875462527f39e3b1f893aef",
+    "FStringFlipTimeStampFastString": "2025-03-12T16:51:07.046Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-12T16:51:07.046Z"
 }
