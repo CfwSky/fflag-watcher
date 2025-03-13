@@ -10663,13 +10663,13 @@
     "FFlagCapturesPromptsSupportVideo": true,
     "FFlagRefactorGameJoinUrl_PlaceFilter": "true;4872321990",
     "FFlagInAppBugReporterIxpEnabled": true,
-    "DFFlagAssetRequestAddCacheSourceToTotalDelayStat2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-13T17:49:22",
     "FFlagUGCValidatePreciseFloatEquals": true,
     "FFlagDebugClientVersionConfliction": true,
     "FFlagInitialModuleCheckMultithread": true,
     "FFlagEnableInAppBugReporting": true,
     "DFFlagAssetRequestTelemetryAddCacheSourceField2": true,
     "FFlagUGCValidateRigidNonSkinned": true,
+    "DFFlagAssetRequestAddCacheSourceToTotalDelayStat2": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -11347,8 +11347,8 @@
     "FFlagAnimationPrefixTiming": true,
     "DFIntWinVideoHwAvailabilityMetricsThrottleHundredthPercent": 2000,
     "FFlagVideoWinHwEncoderCapability": true,
-    "FStringFlagRepoGitHashFastString": "b075dcf710765a87fffecd5fe83d85b5459b8201",
-    "DFStringFlagRepoGitHashDynamicString": "b075dcf710765a87fffecd5fe83d85b5459b8201",
-    "FStringFlipTimeStampFastString": "2025-03-13T18:49:20.924Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-13T18:49:20.924Z"
+    "FStringFlagRepoGitHashFastString": "def66daa71801ecdab3482ae87d9e7d2282b891d",
+    "DFStringFlagRepoGitHashDynamicString": "def66daa71801ecdab3482ae87d9e7d2282b891d",
+    "FStringFlipTimeStampFastString": "2025-03-13T18:52:41.938Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-13T18:52:41.938Z"
 }
