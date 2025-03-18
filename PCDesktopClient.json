@@ -10799,6 +10799,7 @@
     "DFFlagSimAeroStateMachinePointer": true,
     "DFFlagRemoveRaycastBuffers_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-18T17:34:15",
     "FFlagShowVerifiedBadgeOnDisplayNameBillboard_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-18T17:34:20",
+    "FFlagToolboxDropdownItemsListHoverFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-18T17:39:45",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -11472,8 +11473,8 @@
     "FFlagEdpPlayerFeedbackPromptTitleOnly": true,
     "FStringEdpPlayerFeedbackServiceRoute": "player-generated-reviews-service",
     "FFlagEnableCullLogsExperiment": true,
-    "FStringFlagRepoGitHashFastString": "e34a35db15ce0fc0d4ba90e68831c4bd5603cec7",
-    "DFStringFlagRepoGitHashDynamicString": "e34a35db15ce0fc0d4ba90e68831c4bd5603cec7",
-    "FStringFlipTimeStampFastString": "2025-03-18T17:37:53.009Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-18T17:37:53.009Z"
+    "FStringFlagRepoGitHashFastString": "6268bf9c3983706e6a2bdaf9d5a8f8d79ab2354a",
+    "DFStringFlagRepoGitHashDynamicString": "6268bf9c3983706e6a2bdaf9d5a8f8d79ab2354a",
+    "FStringFlipTimeStampFastString": "2025-03-18T17:40:45.742Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-18T17:40:45.742Z"
 }
