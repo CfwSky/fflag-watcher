@@ -10852,6 +10852,7 @@
     "DFIntGetAdAvailabilityNowAsyncDelaySec": 1,
     "FFlagToolboxMigrateVoting": true,
     "FFlagLuaAppEnableRelativeGuiHomeWithIxp": true,
+    "FFlagAXUpdateAAShortcutBar2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-18T23:00:36",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagBuildInitialCacheFix": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -11520,8 +11521,8 @@
     "FStringEdpPlayerFeedbackServiceRoute": "player-generated-reviews-service",
     "FFlagEnableCullLogsExperiment": true,
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase664": true,
-    "FStringFlagRepoGitHashFastString": "f3602d0274485b0701a66e06640b451efcdb2331",
-    "DFStringFlagRepoGitHashDynamicString": "f3602d0274485b0701a66e06640b451efcdb2331",
-    "FStringFlipTimeStampFastString": "2025-03-18T22:59:23.654Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-18T22:59:23.654Z"
+    "FStringFlagRepoGitHashFastString": "51ccea76364bbd383f72dce5fa7e87e751300e9a",
+    "DFStringFlagRepoGitHashDynamicString": "51ccea76364bbd383f72dce5fa7e87e751300e9a",
+    "FStringFlipTimeStampFastString": "2025-03-18T23:05:09.431Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-18T23:05:09.431Z"
 }
