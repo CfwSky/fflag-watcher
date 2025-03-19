@@ -11175,11 +11175,11 @@
     "DFFlagRequireByStringEventTelemetryEnabled": true,
     "FFlagAXMarketplaceUnusedEventAblation2": true,
     "FFlagShouldShowSimpleMusicFtuxTooltip": true,
-    "FFlagControllerManagerManagedJoint_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-19T21:41:55",
-    "FFlagExposeChatWindowToggled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-19T21:46:26",
     "FFlagLuaAppOmniFeedEmptyRowFix": true,
     "FFlagLuaAppScrollToTopOnHomeRefresh": true,
     "DFIntRequireByStringEventHundredthsPercent": 25,
+    "FFlagControllerManagerManagedJoint": true,
+    "FFlagExposeChatWindowToggled": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11562,8 +11562,8 @@
     "FFlagEnableCullLogsExperiment": true,
     "DFFlagEnableMeshPreloading2": true,
     "FFlagReportEnrollmentStateChanges_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-03-19T22:26:46",
-    "FStringFlagRepoGitHashFastString": "86ce71b7e873b8128bcd9a5b15476ecb0973db0f",
-    "DFStringFlagRepoGitHashDynamicString": "86ce71b7e873b8128bcd9a5b15476ecb0973db0f",
-    "FStringFlipTimeStampFastString": "2025-03-19T22:51:17.918Z",
-    "DFStringFlipTimeStampDynamicString": "2025-03-19T22:51:17.918Z"
+    "FStringFlagRepoGitHashFastString": "506c043b688652c86f48a8a2bf8f43762c74424c",
+    "DFStringFlagRepoGitHashDynamicString": "506c043b688652c86f48a8a2bf8f43762c74424c",
+    "FStringFlipTimeStampFastString": "2025-03-19T22:57:40.123Z",
+    "DFStringFlipTimeStampDynamicString": "2025-03-19T22:57:40.123Z"
 }
