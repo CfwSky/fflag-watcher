@@ -11328,13 +11328,14 @@
     "FFlagChatWindowOnlyRenderMessagesOnce_IXP": "1;ExperienceChat.Performance;ChatWindowOnlyRenderMessagesOnce-2;530774716;flagbank",
     "FFlagUwpPlantDatFile": true,
     "DFFlagFixMakeAdGuiDataUndefinedBehavior": true,
-    "FFlagLuauCompilerAlignmentFixEx_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T21:42:49",
     "FFlagRefactorCINavigation": true,
     "FFlagRenderingPlaygroundMacUnifyKeyCodeMapping": true,
     "DFFlagClientRolloutPhaseSupersetTelemetry": true,
     "FFlagSimTouchEventCallCollisionStateChanged": true,
     "DFFlagPerformanceControlFixExponentialCurveHang_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T22:18:31",
     "FFlagUpdateOpenUrlToLatest": true,
+    "FFlagLuauCompilerAlignmentFixEx": true,
+    "DFFlagSanityNullCheckInNativeAdsProtocol_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T22:48:37",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12023,8 +12024,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "47ac3b4de123f2416f565460a5cdfa05b0b4e848",
-    "DFStringFlagRepoGitHashDynamicString": "47ac3b4de123f2416f565460a5cdfa05b0b4e848",
-    "FStringFlipTimeStampFastString": "2025-04-07T22:39:40.698Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T22:39:40.698Z"
+    "FStringFlagRepoGitHashFastString": "ee967ce9f0bcb0335c10a86dd605e8748e5229fb",
+    "DFStringFlagRepoGitHashDynamicString": "ee967ce9f0bcb0335c10a86dd605e8748e5229fb",
+    "FStringFlipTimeStampFastString": "2025-04-07T22:51:12.743Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T22:51:12.743Z"
 }
