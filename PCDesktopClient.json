@@ -11350,6 +11350,7 @@
     "FFlagStudioUnderstandInvalidLaunchTask": true,
     "FFlagStudioCloseTelemetry": true,
     "FFlagStudioRemoveQuitIfLastDocInLastAppInstance": true,
+    "DFFlagHttpServiceInternalUrlWhitelistEnabled_PlaceFilter": "true;19848364",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12042,8 +12043,8 @@
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "ec95d6958f6f65c97aebe1aa8b7c008415864751",
-    "DFStringFlagRepoGitHashDynamicString": "ec95d6958f6f65c97aebe1aa8b7c008415864751",
-    "FStringFlipTimeStampFastString": "2025-04-08T21:16:27.942Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T21:16:27.942Z"
+    "FStringFlagRepoGitHashFastString": "0dc99f15856ac8ff16846f5005c3803719e924f8",
+    "DFStringFlagRepoGitHashDynamicString": "0dc99f15856ac8ff16846f5005c3803719e924f8",
+    "FStringFlipTimeStampFastString": "2025-04-08T21:18:38.824Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T21:18:38.824Z"
 }
