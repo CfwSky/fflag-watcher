@@ -11691,6 +11691,7 @@
     "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventRatePoints_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T23:16:42",
     "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventNumReportsPerSecond_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T23:17:34",
     "FFlagLuaAppRemoveRootWrappingFrames": true,
+    "FFlagRenamePrivacyToPrivacyContentRestrictionsTab": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12418,8 +12419,8 @@
     "FFlagWHAM17072": true,
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
     "FFlagWheelEventUsageTelemetry_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T22:31:05",
-    "FStringFlagRepoGitHashFastString": "2faf332299d54a819878190bf4051f5148f550c4",
-    "DFStringFlagRepoGitHashDynamicString": "2faf332299d54a819878190bf4051f5148f550c4",
-    "FStringFlipTimeStampFastString": "2025-04-28T23:25:28.870Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T23:25:28.870Z"
+    "FStringFlagRepoGitHashFastString": "c2d25b056ada9cb0b7f1c31225a438b664c812d0",
+    "DFStringFlagRepoGitHashDynamicString": "c2d25b056ada9cb0b7f1c31225a438b664c812d0",
+    "FStringFlipTimeStampFastString": "2025-04-28T23:31:52.908Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T23:31:52.908Z"
 }
