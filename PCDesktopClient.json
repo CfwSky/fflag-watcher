@@ -11655,7 +11655,9 @@
     "DFIntPerformanceControlEventBasedTelemetryTunableChangeEventRatePoints_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:14:39",
     "DFFlagEnableKFSFindOrAddLookupTable_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:16:51",
     "FFlagUseNativeWatcherAsSOT": true,
+    "FFlagAnnotationsSyncTagging2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:30:09",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagAXFixBundleOutfitFetchForShoes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:32:05",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12371,8 +12373,8 @@
     "DFFlagSolverV2UpdateGcLogicAndDescendantCollection": true,
     "DFIntGcInParallelWithRenderPrepareEventHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:58:05",
     "DFFlagSolverV2ApplyGcToCertainSets": true,
-    "FStringFlagRepoGitHashFastString": "3e448c507e550ffc7f76ce83d1428a5080deda13",
-    "DFStringFlagRepoGitHashDynamicString": "3e448c507e550ffc7f76ce83d1428a5080deda13",
-    "FStringFlipTimeStampFastString": "2025-04-28T18:28:09.610Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T18:28:09.610Z"
+    "FStringFlagRepoGitHashFastString": "d498c276a8faef1e40aefbdb29f1033f06644d27",
+    "DFStringFlagRepoGitHashDynamicString": "d498c276a8faef1e40aefbdb29f1033f06644d27",
+    "FStringFlipTimeStampFastString": "2025-04-28T18:33:34.190Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T18:33:34.190Z"
 }
