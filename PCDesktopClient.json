@@ -12472,8 +12472,9 @@
     "FFlagGcInParallelWithRenderPrepare3": true,
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec": 3600,
     "FFlagStreamingSolverV2Release663_PlaceFilter": "false;17485826750",
-    "FStringFlagRepoGitHashFastString": "a4d9dd7ea5137cba11b099854e9beb417f9d3ec3",
-    "DFStringFlagRepoGitHashDynamicString": "a4d9dd7ea5137cba11b099854e9beb417f9d3ec3",
-    "FStringFlipTimeStampFastString": "2025-04-30T17:14:07.472Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T17:14:07.472Z"
+    "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:16:02",
+    "FStringFlagRepoGitHashFastString": "685862953d7bc66abcd43ea634fe26979732e28f",
+    "DFStringFlagRepoGitHashDynamicString": "685862953d7bc66abcd43ea634fe26979732e28f",
+    "FStringFlipTimeStampFastString": "2025-04-30T17:19:08.800Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T17:19:08.800Z"
 }
