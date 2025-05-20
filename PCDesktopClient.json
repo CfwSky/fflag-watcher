@@ -11490,6 +11490,7 @@
     "FFlagTelemetryDataReArchSendSignalToBase": true,
     "FFlagDevFrameworkParentStylesToDm": true,
     "DFIntCapabilityRegularUseHundredthsPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T18:36:56",
+    "FFlagLuauStoreLocalAnnotationColonPositions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-20T19:05:47",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -11925,8 +11926,8 @@
     "FFlagFixBroadphaseAABB": true,
     "FFlagPointAndClickDefaultExperimentEnabled": true,
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;Engine.Interactivity.InputAndControls.PointAndClickDSManualExposure;1875661088;dev_controlled",
-    "FStringFlagRepoGitHashFastString": "5a374a89d0590f0e26b26b3d11b9d7a26f014e79",
-    "DFStringFlagRepoGitHashDynamicString": "5a374a89d0590f0e26b26b3d11b9d7a26f014e79",
-    "FStringFlipTimeStampFastString": "2025-05-20T18:54:01.994Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-20T18:54:01.994Z"
+    "FStringFlagRepoGitHashFastString": "82086e8fb1c817cb9cc4977a224a588f5a9ae318",
+    "DFStringFlagRepoGitHashDynamicString": "82086e8fb1c817cb9cc4977a224a588f5a9ae318",
+    "FStringFlipTimeStampFastString": "2025-05-20T19:09:42.851Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-20T19:09:42.851Z"
 }
