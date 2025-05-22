@@ -11282,10 +11282,7 @@
     "FFlagLuaStartPageTableContextMenu": false,
     "DFStringCrashUploadToBacktraceIOSPlayerToken": "35ada14dcc8b35ec14f5733589fcee7c6b31dc97820629fbf175223ae5042ad1",
     "FFlagUGCValidatePropertiesRefactor2": true,
-    "DFFlagRenderUseHardwareBufferTextureForWinVideoEncode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-22T19:01:12",
     "FFlagRefactorBodyAttachmentOrientationsCheck": true,
-    "FFlagToolsManagerRemoveObserver_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-22T19:02:33",
-    "DFFlagAddTranslationDisplayMode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-22T19:03:11",
     "FFlagFFlagAvatarPreviewerDisambiguationMenuModal": true,
     "FFlagAvatarPreviewerTestWithCustomAssets": true,
     "FFlagLuauStoreLocalAnnotationColonPositions": true,
@@ -11293,6 +11290,9 @@
     "FFlagFFlagDevFrameworkMoveEditTree": true,
     "FFlagLuauAddCallConstraintForIterableFunctions": true,
     "FFlagLuauTypeCheckerStricterIndexCheck": true,
+    "DFFlagAddTranslationDisplayMode": true,
+    "FFlagToolsManagerRemoveObserver": true,
+    "DFFlagRenderUseHardwareBufferTextureForWinVideoEncode": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12064,8 +12064,8 @@
     "DFFlagReportContextActionServiceShiftLockEvents": true,
     "DFIntVideoCaptureExposureEventHundredthsPercent": 1000,
     "FFlagVideoCaptureExposureMetrics": true,
-    "FStringFlagRepoGitHashFastString": "1b2c4b90d15def161c5188772fb858edb8d7a26f",
-    "DFStringFlagRepoGitHashDynamicString": "1b2c4b90d15def161c5188772fb858edb8d7a26f",
-    "FStringFlipTimeStampFastString": "2025-05-22T20:01:59.601Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-22T20:01:59.601Z"
+    "FStringFlagRepoGitHashFastString": "a81cbf2fc9c1266374b00a6c2274bd33e35db5b3",
+    "DFStringFlagRepoGitHashDynamicString": "a81cbf2fc9c1266374b00a6c2274bd33e35db5b3",
+    "FStringFlipTimeStampFastString": "2025-05-22T20:11:05.195Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-22T20:11:05.195Z"
 }
