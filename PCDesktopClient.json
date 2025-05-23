@@ -12057,15 +12057,15 @@
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;Engine.Interactivity.InputAndControls.PointAndClickDSManualExposure;1875661088;dev_controlled",
     "FFlagWindowsClientHandleWeirdDeltasBetter": true,
     "FFlagCLI152334": true,
-    "FFlagTextureUseACR4": true,
+    "FFlagTextureUseACR4": false,
     "FIntTextureUseACRHundredthPercent": 2000,
     "FFlagNewHapticService16": true,
     "DFFlagUseAssetProvider6_IXP": "1;Portal.DFFlagUseAssetProvider6-1747884215;DFFlagUseAssetProvider6;1239415010;flagbank",
     "DFFlagReportContextActionServiceShiftLockEvents": true,
     "DFIntVideoCaptureExposureEventHundredthsPercent": 1000,
     "FFlagVideoCaptureExposureMetrics": true,
-    "FStringFlagRepoGitHashFastString": "14c2f91abedc795a59ea218a3bf4049d55073caa",
-    "DFStringFlagRepoGitHashDynamicString": "14c2f91abedc795a59ea218a3bf4049d55073caa",
-    "FStringFlipTimeStampFastString": "2025-05-22T20:42:30.463Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-22T20:42:30.463Z"
+    "FStringFlagRepoGitHashFastString": "c12f2ac9d4420b8d9e1ee61fa80323a6842ff0de",
+    "DFStringFlagRepoGitHashDynamicString": "c12f2ac9d4420b8d9e1ee61fa80323a6842ff0de",
+    "FStringFlipTimeStampFastString": "2025-05-23T18:07:16.304Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-23T18:07:16.304Z"
 }
