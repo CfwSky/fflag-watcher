@@ -12088,8 +12088,9 @@
     "FFlagFoundationAdjustButtonIconSizes2": true,
     "DFIntWHAM1707UploadFailureTelemetryPercent": 10000,
     "DFFlagAddMachineIDInstallerTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:26:03",
-    "FStringFlagRepoGitHashFastString": "21a29f246e0a443e7dd383ba116bb1282f9df7c6",
-    "DFStringFlagRepoGitHashDynamicString": "21a29f246e0a443e7dd383ba116bb1282f9df7c6",
-    "FStringFlipTimeStampFastString": "2025-05-27T20:29:28.016Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-27T20:29:28.016Z"
+    "FFlagLuaAppMigrateGameTileIxp4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:28:10",
+    "FStringFlagRepoGitHashFastString": "62be3e70065581c3e04b45234969bd589a414913",
+    "DFStringFlagRepoGitHashDynamicString": "62be3e70065581c3e04b45234969bd589a414913",
+    "FStringFlipTimeStampFastString": "2025-05-27T20:31:51.774Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-27T20:31:51.774Z"
 }
