@@ -11322,6 +11322,7 @@
     "FIntAICOInputDebounceTimeMs": 900,
     "FFlagADS7991EnableShowRewardedAdsToggleBackendFlag": true,
     "FIntAICOInputDebounceTimeMs_Staged": "700;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:22:50",
+    "DFFlagEnableGmaReportAdPlaceholderTextFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:26:06",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12086,8 +12087,9 @@
     "FFlagVideoCaptureExposureMetrics": true,
     "FFlagFoundationAdjustButtonIconSizes2": true,
     "DFIntWHAM1707UploadFailureTelemetryPercent": 10000,
-    "FStringFlagRepoGitHashFastString": "506d99e566bc0ff83bd6769bcac3dc4ae2a1474e",
-    "DFStringFlagRepoGitHashDynamicString": "506d99e566bc0ff83bd6769bcac3dc4ae2a1474e",
-    "FStringFlipTimeStampFastString": "2025-05-27T20:23:46.101Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-27T20:23:46.101Z"
+    "DFFlagAddMachineIDInstallerTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-27T20:26:03",
+    "FStringFlagRepoGitHashFastString": "21a29f246e0a443e7dd383ba116bb1282f9df7c6",
+    "DFStringFlagRepoGitHashDynamicString": "21a29f246e0a443e7dd383ba116bb1282f9df7c6",
+    "FStringFlipTimeStampFastString": "2025-05-27T20:29:28.016Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-27T20:29:28.016Z"
 }
