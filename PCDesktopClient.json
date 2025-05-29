@@ -11416,6 +11416,7 @@
     "FFlagIASDefaultContext": true,
     "FFlagEnableDynamicTranslation2": true,
     "DFFlagHttpVersionErrField": true,
+    "FFlagEnableDynamicTranslation2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-29T01:01:39",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12172,8 +12173,8 @@
     "FFlagUseUIRenderModifiers3": true,
     "DFFlagWebrtcSendPacketsOnWorkerThreadEnabled": true,
     "DFFlagRaknetPacketTracing": true,
-    "FStringFlagRepoGitHashFastString": "0cd3d91491a27bc57aced02edbaf6e071c045f5e",
-    "DFStringFlagRepoGitHashDynamicString": "0cd3d91491a27bc57aced02edbaf6e071c045f5e",
-    "FStringFlipTimeStampFastString": "2025-05-29T01:01:42.893Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-29T01:01:42.893Z"
+    "FStringFlagRepoGitHashFastString": "e7ea63e96706525a4b03d06e2e93c1626c67e1cf",
+    "DFStringFlagRepoGitHashDynamicString": "e7ea63e96706525a4b03d06e2e93c1626c67e1cf",
+    "FStringFlipTimeStampFastString": "2025-05-29T01:09:19.213Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-29T01:09:19.213Z"
 }
