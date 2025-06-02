@@ -11499,7 +11499,6 @@
     "FFlagAnimationCurveDenseCacheEnabled5": true,
     "DFFlagRakNetDisableTelemV1DownloadBwTracker": true,
     "DFFlagFixMidPhaseDebugDraw": true,
-    "DFFlagEnablePartyDevAPI4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-02T18:49:20",
     "FFlagSTUDIOPLAT_38487_ReplaceDeprecatedQTAPIs_LastSweep": true,
     "DFFlagDeserializeMetaBreakpointsFromXmlWithPugi": true,
     "FFlagXboxCheckConsumedBeforeProcessPayment": true,
@@ -11516,6 +11515,7 @@
     "FFlagImportQueueFixRibbonToggle": true,
     "FFlagEnableCreatorStorePurchasingCutover": true,
     "FFlagCareersParentsAboutUsFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-02T19:46:16",
+    "DFFlagEnablePartyDevAPI4": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12300,8 +12300,8 @@
     "FFlagStreamDataItemMulti": true,
     "FFlagLuaAppShowNoticeOnEdp": true,
     "FStringPointAndClickDefaultExperimentLayer": "Engine.Interactivity.InputAndControls.PointAndClick",
-    "FStringFlagRepoGitHashFastString": "8012975489a53160dc8d0dacf9aed554bf1f51c4",
-    "DFStringFlagRepoGitHashDynamicString": "8012975489a53160dc8d0dacf9aed554bf1f51c4",
-    "FStringFlipTimeStampFastString": "2025-06-02T19:47:08.920Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-02T19:47:08.920Z"
+    "FStringFlagRepoGitHashFastString": "fbeeda2a28b0e8a5ddb61090bafbf48cb2420280",
+    "DFStringFlagRepoGitHashDynamicString": "fbeeda2a28b0e8a5ddb61090bafbf48cb2420280",
+    "FStringFlipTimeStampFastString": "2025-06-02T19:52:38.848Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-02T19:52:38.848Z"
 }
