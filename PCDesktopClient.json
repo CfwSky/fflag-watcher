@@ -11774,6 +11774,8 @@
     "FFlagPartyParticipantDisabledFixEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-10T17:37:19",
     "FFlagRespectImageLoadFlags": true,
     "AllowVideoPreRoll": true,
+    "FFlagUseExperienceStoreApiForEdp_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-10T17:55:06",
+    "FFlagFixIconCtaHeight_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-10T17:55:09",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
@@ -12573,8 +12575,8 @@
     "DFIntBatchWorkflowMinWaitMs": 30,
     "FFlagManagedJointJointInstance675": true,
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
-    "FStringFlagRepoGitHashFastString": "d54d8d557ff464774a08d09393a99c8874c2d958",
-    "DFStringFlagRepoGitHashDynamicString": "d54d8d557ff464774a08d09393a99c8874c2d958",
-    "FStringFlipTimeStampFastString": "2025-06-10T17:49:04.224Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-10T17:49:04.224Z"
+    "FStringFlagRepoGitHashFastString": "2e044c62c06f894f39fbb330322e3303ef5ca4ba",
+    "DFStringFlagRepoGitHashDynamicString": "2e044c62c06f894f39fbb330322e3303ef5ca4ba",
+    "FStringFlipTimeStampFastString": "2025-06-10T17:57:09.602Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-10T17:57:09.602Z"
 }
