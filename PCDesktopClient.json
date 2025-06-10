@@ -11720,7 +11720,7 @@
     "FFlagSupportVorbisInOggOutputFormat": true,
     "FFlagVideoSupportAlternateAudioCodecsInMp4": true,
     "FFlagLuauCSTForReturnTypeFunctionTail": true,
-    "DFFlagSimSolverInsideOfSphereGS": true,
+    "DFFlagSimSolverInsideOfSphereGS": false,
     "DFFlagSimAdaptiveAdjustTimestepForControllerManager": true,
     "FFlagLuaAppSduiOmniFeedStats": true,
     "FIntDiscoveryFeedStatsHundredthsPercent": 10000,
@@ -12560,8 +12560,8 @@
     "DFIntBatchWorkflowMinWaitMs": 30,
     "FFlagManagedJointJointInstance675": true,
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
-    "FStringFlagRepoGitHashFastString": "e72df9bb90bc5cf39c1e30b7863286499736a8ee",
-    "DFStringFlagRepoGitHashDynamicString": "e72df9bb90bc5cf39c1e30b7863286499736a8ee",
-    "FStringFlipTimeStampFastString": "2025-06-10T01:07:48.562Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-10T01:07:48.562Z"
+    "FStringFlagRepoGitHashFastString": "32b4e012282a846b66ec222058ad45037311c0be",
+    "DFStringFlagRepoGitHashDynamicString": "32b4e012282a846b66ec222058ad45037311c0be",
+    "FStringFlipTimeStampFastString": "2025-06-10T15:52:39.952Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-10T15:52:39.952Z"
 }
