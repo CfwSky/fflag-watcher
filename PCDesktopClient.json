@@ -11458,7 +11458,7 @@
     "FFlagReportAnythingFixConvexHullCalculation": true,
     "FFlagEnablePartyInviteChangesExperimentation4": false,
     "DFFlagHttpEnableLocalThrottlingOn5032": true,
-    "FStringOmniSupportedSduiTreatmentTypes": "Carousel:674,HeroUnit:674",
+    "FStringOmniSupportedSduiTreatmentTypes": "Carousel:674,HeroUnit:674,AvatarCarousel:676",
     "FFlagStudioFixVarArgTypeHighlighting": true,
     "DFFlagFixEventTeleportSetting": true,
     "DFFlagCLI_151369_CheckMatchmakingAttributesJsonLength": true,
@@ -12594,8 +12594,8 @@
     "DFIntBatchWorkflowMaxWaitMs": 120,
     "DFIntBatchWorkflowMinWaitMs": 30,
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
-    "FStringFlagRepoGitHashFastString": "f91f7ad04627475d28bd4545bce061bf9f233cf0",
-    "DFStringFlagRepoGitHashDynamicString": "f91f7ad04627475d28bd4545bce061bf9f233cf0",
-    "FStringFlipTimeStampFastString": "2025-06-10T22:19:14.992Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-10T22:19:14.992Z"
+    "FStringFlagRepoGitHashFastString": "af04b37febec82d20803a679248e31d6df4049d8",
+    "DFStringFlagRepoGitHashDynamicString": "af04b37febec82d20803a679248e31d6df4049d8",
+    "FStringFlipTimeStampFastString": "2025-06-10T22:36:37.285Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-10T22:36:37.285Z"
 }
