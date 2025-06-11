@@ -11807,6 +11807,8 @@
     "FIntGamepadOpenExperienceControlsMenuThrottleHundrethsPercent": 10000,
     "FFlagAXIncreaseBodyBundleZoomToMatchLooksEnabledForAll": true,
     "FFlagAXCloseItemDetailsWhenClickNewItem2": true,
+    "FFlagFoundationRefactorInputs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T16:03:58",
+    "FFlagSkyboxOrientationBetaFeature_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T16:14:52",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12597,8 +12599,10 @@
     "DFIntBatchWorkflowMaxWaitMs": 120,
     "DFIntBatchWorkflowMinWaitMs": 30,
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
-    "FStringFlagRepoGitHashFastString": "5a0b995d42de5d527eb3db2560ea11edddb05a95",
-    "DFStringFlagRepoGitHashDynamicString": "5a0b995d42de5d527eb3db2560ea11edddb05a95",
-    "FStringFlipTimeStampFastString": "2025-06-11T00:48:55.946Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-11T00:48:55.946Z"
+    "DFFlagSimSolverImprovedPartialSleepDefaultEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-11T16:09:35",
+    "DFIntRakNetSocketSendTimeoutMs_Staged": "1000;SteadyState;10;30;Revert;2025-06-11T16:34:05",
+    "FStringFlagRepoGitHashFastString": "0b4990b1b5c7935e97c9813a0453d5a159acb38c",
+    "DFStringFlagRepoGitHashDynamicString": "0b4990b1b5c7935e97c9813a0453d5a159acb38c",
+    "FStringFlipTimeStampFastString": "2025-06-11T16:51:08.309Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-11T16:51:08.309Z"
 }
