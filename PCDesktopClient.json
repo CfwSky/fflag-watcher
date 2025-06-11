@@ -11817,6 +11817,7 @@
     "FFlagSkyboxOrientation": true,
     "DFFlagAppConfigurationAddUrlInTelemetry": true,
     "FFlagEnableLogCullingTelemetryForControl": true,
+    "FFlagAppChatFixDialogClipping": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12608,8 +12609,8 @@
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
     "DFIntRakNetSocketSendTimeoutMs": 1000,
     "FFlagBootcampCLI155621": true,
-    "FStringFlagRepoGitHashFastString": "cb1df693d987dd1a737b3d5ca32f4a5b1b7e13cd",
-    "DFStringFlagRepoGitHashDynamicString": "cb1df693d987dd1a737b3d5ca32f4a5b1b7e13cd",
-    "FStringFlipTimeStampFastString": "2025-06-11T19:59:58.333Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-11T19:59:58.333Z"
+    "FStringFlagRepoGitHashFastString": "d24538e023d29b0b30e2e00eacfe120eeff3aa8a",
+    "DFStringFlagRepoGitHashDynamicString": "d24538e023d29b0b30e2e00eacfe120eeff3aa8a",
+    "FStringFlipTimeStampFastString": "2025-06-11T20:16:21.671Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-11T20:16:21.671Z"
 }
