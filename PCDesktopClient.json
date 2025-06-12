@@ -12627,8 +12627,8 @@
     "DFIntBatchWorkflowMinWaitMs": 30,
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
     "FFlagBootcampCLI155621": true,
-    "FStringFlagRepoGitHashFastString": "edf4a499c3cc98bea5e1b3ebee06c0a10cf1223f",
-    "DFStringFlagRepoGitHashDynamicString": "edf4a499c3cc98bea5e1b3ebee06c0a10cf1223f",
-    "FStringFlipTimeStampFastString": "2025-06-12T16:12:32.021Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-12T16:12:32.021Z"
+    "FStringFlagRepoGitHashFastString": "857cf891bbae4f7bd04f4563543d3d2fd6b3709d",
+    "DFStringFlagRepoGitHashDynamicString": "857cf891bbae4f7bd04f4563543d3d2fd6b3709d",
+    "FStringFlipTimeStampFastString": "2025-06-12T16:18:59.197Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-12T16:18:59.197Z"
 }
