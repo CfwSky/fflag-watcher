@@ -11834,6 +11834,7 @@
     "FFlagLuaAppGameInviteFocusable_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-12T15:56:46",
     "DFFlagEnableCppUnparentedInstances2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-12T16:04:24",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "DFIntWindowsMinimumClientVersion2_Staged": "675;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-12T16:26:18",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12627,8 +12628,8 @@
     "DFIntBatchWorkflowMinWaitMs": 30,
     "DFFlagRobloxTelemetryAddOTAVersionAsTag": true,
     "FFlagBootcampCLI155621": true,
-    "FStringFlagRepoGitHashFastString": "857cf891bbae4f7bd04f4563543d3d2fd6b3709d",
-    "DFStringFlagRepoGitHashDynamicString": "857cf891bbae4f7bd04f4563543d3d2fd6b3709d",
-    "FStringFlipTimeStampFastString": "2025-06-12T16:18:59.197Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-12T16:18:59.197Z"
+    "FStringFlagRepoGitHashFastString": "e380f381113eb85736656196c1b332221955ecbc",
+    "DFStringFlagRepoGitHashDynamicString": "e380f381113eb85736656196c1b332221955ecbc",
+    "FStringFlipTimeStampFastString": "2025-06-12T16:28:53.091Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-12T16:28:53.091Z"
 }
