@@ -12279,6 +12279,7 @@
     "FFlagVideoWinEncodeCheckEofBeforeInput": true,
     "FFlagAXDisableActionButtonOnOwnedItemInCustomize": true,
     "FFlagSessionCheckOnLandingPage2": true,
+    "FFlagLuaAppAddTopicInfoDataSource_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-16T20:46:58",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12733,8 +12734,8 @@
     "FFlagDevHardwareVideoCaptureMaster3_IXP": "1;Portal.VideoCaptureEngine.WindowsF12.V1-1749839526;VideoCaptureEngine.WindowsF12.V1;1940851409;flagbank",
     "DFIntRbxStorageDeleteTailWhenReachedPercentMaxCapacity": 1,
     "FFlagThirdPartyFriendCommunication": true,
-    "FStringFlagRepoGitHashFastString": "81c8b658554ceb801c1fd5fbaec2b26f3fb3c7e7",
-    "DFStringFlagRepoGitHashDynamicString": "81c8b658554ceb801c1fd5fbaec2b26f3fb3c7e7",
-    "FStringFlipTimeStampFastString": "2025-06-16T20:45:10.938Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-16T20:45:10.938Z"
+    "FStringFlagRepoGitHashFastString": "a370dd9e5f5c16dc7b477878fad5cac9f859df67",
+    "DFStringFlagRepoGitHashDynamicString": "a370dd9e5f5c16dc7b477878fad5cac9f859df67",
+    "FStringFlipTimeStampFastString": "2025-06-16T20:51:26.851Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-16T20:51:26.851Z"
 }
