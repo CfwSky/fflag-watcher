@@ -12811,8 +12811,8 @@
     "FFlagThirdPartyFriendCommunication": true,
     "DFFlagSafetyServiceScreenshotAvatarId": true,
     "DFFlagTaskSchedulerRescheduleAsForeground": true,
-    "FStringFlagRepoGitHashFastString": "02b4fdc3cddcf0a96223d8ddf30bcd2ee393848c",
-    "DFStringFlagRepoGitHashDynamicString": "02b4fdc3cddcf0a96223d8ddf30bcd2ee393848c",
-    "FStringFlipTimeStampFastString": "2025-06-18T23:37:29.521Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-18T23:37:29.521Z"
+    "FStringFlagRepoGitHashFastString": "f195d323dfaba717e98a425b4d753fcd2437ee7a",
+    "DFStringFlagRepoGitHashDynamicString": "f195d323dfaba717e98a425b4d753fcd2437ee7a",
+    "FStringFlipTimeStampFastString": "2025-06-18T23:42:35.440Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-18T23:42:35.440Z"
 }
