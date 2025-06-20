@@ -12015,12 +12015,12 @@
     "FFlagMemoizeBubbleChatApp_IXP": "1;ExperienceChat.Performance;FFlagMemoizeBubbleChatApp;1971971952;flagbank",
     "FFlagBootcampCLI155350": true,
     "DFFlagReportRuppDeserializationErrorsV2": true,
-    "FFlagStudioHideTooltipsOnMouseLeave_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T18:47:07",
     "FFlagAXCatalogCreatorName": true,
     "FFlagAXFixLookPurchaseLogging": true,
     "FFlagAXLookDetailsKeepTopBarHeight": true,
     "FFlagAXLookDetailsPeekViewDidUpdateFix": true,
     "FFlagFFlagAXLookDetailsChevronSpacing": true,
+    "FFlagStudioHideTooltipsOnMouseLeave": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12836,8 +12836,8 @@
     "DFFlagVideoCaptureEngineOnlyFinalizeWhenCapturing": true,
     "FFlagDevHardwareVideoCaptureMaster3_IXP": "1;Portal.VideoCaptureEngine.WindowsF12.V2-1750444377;VideoCaptureEngine.WindowsF12.V2;1940851409;flagbank",
     "FFlagAddLearnTile1": true,
-    "FStringFlagRepoGitHashFastString": "48ee536a98ab67d2a3d27e67f3b41d26a03b22aa",
-    "DFStringFlagRepoGitHashDynamicString": "48ee536a98ab67d2a3d27e67f3b41d26a03b22aa",
-    "FStringFlipTimeStampFastString": "2025-06-20T19:47:38.895Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-20T19:47:38.895Z"
+    "FStringFlagRepoGitHashFastString": "2672fc74ceacad6780028c06612fac89e715c6c6",
+    "DFStringFlagRepoGitHashDynamicString": "2672fc74ceacad6780028c06612fac89e715c6c6",
+    "FStringFlipTimeStampFastString": "2025-06-20T19:53:53.101Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-20T19:53:53.101Z"
 }
