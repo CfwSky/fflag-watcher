@@ -12011,6 +12011,7 @@
     "FFlagNoLongerServeXboxGamerPic": true,
     "FFlagBootcampCLI155350_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T17:26:51",
     "FFlagThirdPartyRegisterUseWeakPtr": true,
+    "DFFlagReportRuppDeserializationErrorsV2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T17:41:41",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12820,8 +12821,8 @@
     "DFFlagSafetyServiceScreenshotAvatarId": true,
     "DFFlagTaskSchedulerRescheduleAsForeground": true,
     "DFFlagVideoCaptureEngineOnlyFinalizeWhenCapturing_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-20T17:11:56",
-    "FStringFlagRepoGitHashFastString": "c48df790ac3a99a23698b73278d6ca8cdc421193",
-    "DFStringFlagRepoGitHashDynamicString": "c48df790ac3a99a23698b73278d6ca8cdc421193",
-    "FStringFlipTimeStampFastString": "2025-06-20T17:32:39.765Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-20T17:32:39.765Z"
+    "FStringFlagRepoGitHashFastString": "5b55160ab68c8193d1cc2b6369a1c98c3d96cd8e",
+    "DFStringFlagRepoGitHashDynamicString": "5b55160ab68c8193d1cc2b6369a1c98c3d96cd8e",
+    "FStringFlipTimeStampFastString": "2025-06-20T17:43:34.639Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-20T17:43:34.639Z"
 }
