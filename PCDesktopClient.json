@@ -12103,6 +12103,8 @@
     "DFFlagChatLineAbuseReportFixSortOrderEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T17:39:13",
     "DFIntStudioVideoImportSupportedMaxDurationSeconds_Staged": "301;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T17:43:05",
     "DFFlagRemoveDuplicateMontserrat_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T17:52:49",
+    "FFlagInExperiencePurchaseFlowRework_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T17:52:52",
+    "FFlagUGCValidateMinBoundsVisibility2_Staged": "true;SteadyState;10;30;Revert;2025-06-24T17:55:27",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12928,8 +12930,8 @@
     "FFlagVMSErrorAnalysisEa_IXP": "1;Portal.Engine.Security.LuaSignatureVerification-1750282882;Engine.Security.LuaSignatureVerification;2105309322;flagbank",
     "FFlagEnableWin64AdPlayer3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T17:17:03",
     "FFlagLuaAppFixEventDetailsVerticalPageMediaHeight": true,
-    "FStringFlagRepoGitHashFastString": "e60476384130789f60d3d8404647afda7d2615a5",
-    "DFStringFlagRepoGitHashDynamicString": "e60476384130789f60d3d8404647afda7d2615a5",
-    "FStringFlipTimeStampFastString": "2025-06-24T17:55:26.828Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-24T17:55:26.828Z"
+    "FStringFlagRepoGitHashFastString": "666b976a61fc09992936f7186bee204527eb8ac5",
+    "DFStringFlagRepoGitHashDynamicString": "666b976a61fc09992936f7186bee204527eb8ac5",
+    "FStringFlipTimeStampFastString": "2025-06-24T17:57:34.168Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-24T17:57:34.168Z"
 }
