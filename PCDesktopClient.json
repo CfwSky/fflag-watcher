@@ -12095,7 +12095,7 @@
     "DFFlagDoNotSkipMipsBasedOnSystemMemoryPS": true,
     "FFlagAddFriendsUserTileHeightFix": true,
     "DFIntJoinLimitWin32x64": 677,
-    "FFlagAXCatalogItemCardFooterBackendDriven2": true,
+    "FFlagAXCatalogItemCardFooterBackendDriven2": false,
     "FFlagEnablePreferredTextSizeSecurityContext": true,
     "DFFlagChatLineAbuseReportFixSortOrderEnabled": true,
     "DFIntRobloxTelemetryESIBatchByteSizeThreshold": 2500,
@@ -12134,7 +12134,6 @@
     "DFFlagVideoCaptureFixF12Preemption": true,
     "DFFlagFixServerQueuePushBack": true,
     "FFlagRenameFriendsToConnectionsFriendsMenu": true,
-    "FFlagAXCatalogItemCardFooterBackendDriven2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T23:31:58",
     "FFlagStylingFasterTagProcessing": true,
     "EnableAndroidAppPromoLoggingViaEngine": "true",
     "FFlagLuaStartPageFixDateCreatedDropdownOverlap_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T23:41:24",
@@ -12997,9 +12996,9 @@
     "FFlagEnableWin64AdPlayer3": true,
     "FFlagPerformanceControlLinearUtility_IXP": "1;HarmonyExposure;Harmony_Linear_Utility;960015234;flagbank",
     "FFlagVMSErrorAnalysisEa_IXP": "1;Portal.Engine.Security.LuaSignatureVerification-1750282882;Engine.Security.LuaSignatureVerification.v2;2105309322;flagbank",
-    "FFlagFilterNotificationsForPCGDKEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-24T23:38:10",
-    "FStringFlagRepoGitHashFastString": "d5e76929275e3b011de742a92a6ecc674c649fc0",
-    "DFStringFlagRepoGitHashDynamicString": "d5e76929275e3b011de742a92a6ecc674c649fc0",
-    "FStringFlipTimeStampFastString": "2025-06-25T00:36:42.265Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-25T00:36:42.265Z"
+    "FFlagFilterNotificationsForPCGDKEnabled": true,
+    "FStringFlagRepoGitHashFastString": "7d9fdeafff3c34dcc60e3532934653cc088fed25",
+    "DFStringFlagRepoGitHashDynamicString": "7d9fdeafff3c34dcc60e3532934653cc088fed25",
+    "FStringFlipTimeStampFastString": "2025-06-25T00:50:02.803Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-25T00:50:02.803Z"
 }
