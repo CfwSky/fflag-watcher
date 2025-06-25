@@ -12185,6 +12185,7 @@
     "DFFlagFixIncorrectRccJobsUsage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-25T19:32:11",
     "FFlagOptimizeChildNameCopy": true,
     "FIntSetAliasHttpRetryCount_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-25T19:43:08",
+    "FFlagAvatarIdentificationSafeAreaFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-25T19:54:40",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -13054,8 +13055,8 @@
     "FFlagVMSErrorAnalysisEa_IXP": "1;Portal.Engine.Security.LuaSignatureVerification-1750282882;Engine.Security.LuaSignatureVerification.v2;2105309322;flagbank",
     "FFlagFilterNotificationsForPCGDKEnabled": true,
     "FFlagLuaAppEdpMediaGallerySelectedMediaEntriesRefactor": true,
-    "FStringFlagRepoGitHashFastString": "25b013f0e6aedd79f0d68f0c052cf3dd0a215979",
-    "DFStringFlagRepoGitHashDynamicString": "25b013f0e6aedd79f0d68f0c052cf3dd0a215979",
-    "FStringFlipTimeStampFastString": "2025-06-25T19:45:31.500Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-25T19:45:31.500Z"
+    "FStringFlagRepoGitHashFastString": "6e50dc67fa10e4194b3472adede90b032e182d9f",
+    "DFStringFlagRepoGitHashDynamicString": "6e50dc67fa10e4194b3472adede90b032e182d9f",
+    "FStringFlipTimeStampFastString": "2025-06-25T20:01:41.071Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-25T20:01:41.071Z"
 }
